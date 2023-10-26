@@ -1,4 +1,5 @@
 (function ($) {
+    $('#logo_menu')[0].src = "./img/cty/logo_white.png"
     "use strict";
 
     // Spinner
@@ -20,8 +21,10 @@
     $(window).scroll(function () {
         if ($(this).scrollTop() > 45) {
             $('.navbar').addClass('sticky-top shadow-sm');
+            $('#logo_menu')[0].src = "./img/cty/logo_black.png"
         } else {
             $('.navbar').removeClass('sticky-top shadow-sm');
+            $('#logo_menu')[0].src = "./img/cty/logo_white.png"
         }
     });
     
