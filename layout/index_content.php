@@ -106,18 +106,20 @@
             <div class="row g-5">
                 <div class="col-lg-7">
                     <div class="section-title position-relative pb-3 mb-5">
-                        <h5 class="fw-bold text-primary text-uppercase">About Us</h5>
-                        <h1 class="mb-0">The Best IT Solution With 10 Years of Experience</h1>
+                        <h5 class="fw-bold text-primary text-uppercase">Về chúng tôi</h5>
+                        <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
                     </div>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-4">Bạn có thể biết đến TECHNAM với cái tên nằm top dẫn đầu thị trường Đông Nam Á về lĩnh vực Truyền thông - Marketing 
+Những dự án chúng tôi đã và đang phát triển luôn mang đến sự ưu tiên trải nghiệm tốt nhất dành cho khách hàng.
+Tập hợp những kỹ thuật - công nghệ hàng đầu ứng dụng vào quy trình phân tích, xây dựng chiến lược truyền thông, quảng cáo. Nhằm mang đến lợi ích tăng doanh thu, độ nhận diện thương hiệu cho đối tác sử dụng dịch vụ.</p>
                     <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Award Winning</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Professional Staff</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Uy tín</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Chuyên nghiệp</h5>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.4s">
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>24/7 Support</h5>
-                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Fair Prices</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Sáng tạo</h5>
+                            <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Tối ưu ngân sách</h5>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
@@ -125,11 +127,11 @@
                             <i class="fa fa-phone-alt text-white"></i>
                         </div>
                         <div class="ps-4">
-                            <h5 class="mb-2">Call to ask any question</h5>
-                            <h4 class="text-primary mb-0">+012 345 6789</h4>
+                            <h5 class="mb-2">Liên hệ chúng tôi</h5>
+                            <h4 class="text-primary mb-0">+84 588 007 777</h4>
                         </div>
                     </div>
-                    <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a>
+                    <!-- <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a> -->
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -144,7 +146,7 @@
 
     <!-- Features Start -->
     
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Why Choose Us</h5>
@@ -194,7 +196,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Features Start -->
 
 
@@ -202,8 +204,8 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Our Services</h5>
-                <h1 class="mb-0">Custom IT Solutions for Your Successful Business</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Dịch vụ của chúng tôi</h5>
+                <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -211,8 +213,8 @@
                         <div class="service-icon">
                             <i class="fa fa-shield-alt text-white"></i>
                         </div>
-                        <h4 class="mb-3">Cyber Security</h4>
-                        <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                        <h4 class="mb-3">QUẢNG CÁO ĐA NỀN TẢNG</h4>
+                        <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -223,8 +225,8 @@
                         <div class="service-icon">
                             <i class="fa fa-chart-pie text-white"></i>
                         </div>
-                        <h4 class="mb-3">Data Analytics</h4>
-                        <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                        <h4 class="mb-3">CHĂM SÓC FANPAGE TRỌN GÓI</h4>
+                        <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -235,8 +237,8 @@
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Web Development</h4>
-                        <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                        <h4 class="mb-3">DỊCH VỤ SOCIAL SEEDING/TĂNG MEMBER GROUP</h4>
+                        <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -247,8 +249,8 @@
                         <div class="service-icon">
                             <i class="fab fa-android text-white"></i>
                         </div>
-                        <h4 class="mb-3">Apps Development</h4>
-                        <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                        <h4 class="mb-3">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
+                        <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
@@ -259,18 +261,23 @@
                         <div class="service-icon">
                             <i class="fa fa-search text-white"></i>
                         </div>
-                        <h4 class="mb-3">SEO Optimization</h4>
-                        <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p>
+                        <h4 class="mb-3">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
+                        <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                         <a class="btn btn-lg btn-primary rounded" href="">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
-                    <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
-                        <h3 class="text-white mb-3">Call Us For Quote</h3>
-                        <p class="text-white mb-3">Clita ipsum magna kasd rebum at ipsum amet dolor justo dolor est magna stet eirmod</p>
-                        <h2 class="text-white mb-0">+012 345 6789</h2>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-search text-white"></i>
+                        </div>
+                        <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO/THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
+                        <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
+                        <a class="btn btn-lg btn-primary rounded" href="">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -278,9 +285,29 @@
     </div>
     <!-- Service End -->
 
+    <!-- Vendor Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5 mb-5">
+            <div class="bg-white">
+                <div class="owl-carousel vendor-carousel">
+                    <img src="img/vendor-1.jpg" alt="">
+                    <img src="img/vendor-2.jpg" alt="">
+                    <img src="img/vendor-3.jpg" alt="">
+                    <img src="img/vendor-4.jpg" alt="">
+                    <img src="img/vendor-5.jpg" alt="">
+                    <img src="img/vendor-6.jpg" alt="">
+                    <img src="img/vendor-7.jpg" alt="">
+                    <img src="img/vendor-8.jpg" alt="">
+                    <img src="img/vendor-9.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Vendor End -->
+
 
     <!-- Pricing Plan Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Pricing Plans</h5>
@@ -346,12 +373,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Pricing Plan End -->
 
 
     <!-- Quote Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-7">
@@ -408,7 +435,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Quote End -->
 
 
@@ -416,8 +443,8 @@
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
-                <h5 class="fw-bold text-primary text-uppercase">Testimonial</h5>
-                <h1 class="mb-0">What Our Clients Say About Our Digital Services</h1>
+                <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>
+                <h1 class="mb-0">KHÁCH HÀNG NÓI GÌ VỀ TECHNAM</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
                 <div class="testimonial-item bg-light my-4">
@@ -473,9 +500,25 @@
     </div>
     <!-- Testimonial End -->
 
+    <!-- About Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
+                    <div class="bg-primary d-flex align-items-center justify-content-center rounded" id="btn-shake"
+                    style="width: 50%;height: 60px;color: white;text-combine-upright: white;border-radius:18px !important; margin:auto">
+                        <i class="fa fa-phone-alt text-white"></i> +84 588 007 777
+                    </div>
+                </div>
+                    <!-- <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a> -->
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
 
     <!-- Team Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Team Members</h5>
@@ -535,12 +578,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Team End -->
 
 
     <!-- Blog Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Latest Blog</h5>
@@ -600,26 +643,8 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Blog Start -->
 
 
-    <!-- Vendor Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5 mb-5">
-            <div class="bg-white">
-                <div class="owl-carousel vendor-carousel">
-                    <img src="img/vendor-1.jpg" alt="">
-                    <img src="img/vendor-2.jpg" alt="">
-                    <img src="img/vendor-3.jpg" alt="">
-                    <img src="img/vendor-4.jpg" alt="">
-                    <img src="img/vendor-5.jpg" alt="">
-                    <img src="img/vendor-6.jpg" alt="">
-                    <img src="img/vendor-7.jpg" alt="">
-                    <img src="img/vendor-8.jpg" alt="">
-                    <img src="img/vendor-9.jpg" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Vendor End -->
+    
