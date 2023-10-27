@@ -35,12 +35,7 @@
 <body>
     <!-- Spinner Start -->
     
-    <!-- <div id="particles-js"></div> -->
-    <div style="position: fixed;z-index: -2;width: 100%;height:100%">
-        <video autoplay loop muted style="height: 100%;">
-            <source type="video/mp4" src="../videos/back_ground_1.mp4">
-        </video>
-    </div>
+    <div id="particles-js"></div>
 
     <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner"></div>
