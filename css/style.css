@@ -662,9 +662,9 @@ h6,
 
 .custome-box {
     background-color: #ffffff !important;
-    border-radius: 39px !important;
+    border-radius: 15px !important;
     opacity: 0.8;
-    box-shadow: 5px 10px #0335c3;
+    box-shadow: 0px 0px 18px 4px #0335c3;
 }
 
 .custome-box h4 {
