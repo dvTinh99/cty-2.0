@@ -34,7 +34,7 @@ img {
     -webkit-transform: translateZ(0);
     transition: visibility .5s;
     left: 0;
-    bottom: -2px;
+    bottom: -3px;
     display: block;
 }
 
