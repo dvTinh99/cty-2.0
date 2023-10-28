@@ -64,13 +64,7 @@
             <div class="modal-body d-flex align-items-center justify-content-center">
                 <!-- video here -->
                 <div style="width: 100%;height:100%;overflow: hidden;">
-                    <iframe width="80%" height="70%" src="https://www.youtube.com/embed/DDXcMuVD_rs?si=GRytLkhSfCbFDxfM" 
-                        title="YouTube video player" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                        allowfullscreen
-                        style="margin-left:10%;margin-top:3%"
-                        >
+                    <iframe width="80%" height="70%" src="https://www.youtube.com/embed/DDXcMuVD_rs?si=GRytLkhSfCbFDxfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-left:10%;margin-top:3%">
                     </iframe>
                 </div>
             </div>
@@ -132,9 +126,7 @@
                     <h5 class="fw-bold text-primary text-uppercase">Về chúng tôi</h5>
                     <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
                 </div>
-                <p class="mb-4">Bạn có thể biết đến TECHNAM với cái tên nằm top dẫn đầu thị trường Đông Nam Á về lĩnh vực Truyền thông - Marketing
-                    Những dự án chúng tôi đã và đang phát triển luôn mang đến sự ưu tiên trải nghiệm tốt nhất dành cho khách hàng.
-                    Tập hợp những kỹ thuật - công nghệ hàng đầu ứng dụng vào quy trình phân tích, xây dựng chiến lược truyền thông, quảng cáo. Nhằm mang đến lợi ích tăng doanh thu, độ nhận diện thương hiệu cho đối tác sử dụng dịch vụ.</p>
+                <p class="mb-4">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam Group đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam Group góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam Group sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam Group - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
                 <!-- <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Uy tín</h5>
@@ -168,7 +160,7 @@
 
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" style="text-transform: uppercase;position: relative;">
     <div class="container py-5">
-    <div class="row g-5">
+        <div class="row g-5">
             <div class="col-lg-2">
             </div>
             <div class="col-lg-8  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px; visibility: visible; animation-delay: 0.9s; animation-name: zoomIn;" data-bs-toggle="modal" data-bs-target="#videoModal">
@@ -176,7 +168,7 @@
                     <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="https://intudovc.com/wp-content/uploads/2022/11/Intudo-2022-The-only-_Indonesia-only_-VC-0-12-screenshot-1024x576.png" style="object-fit: cover; visibility: visible; animation-delay: 0.1s; animation-name: zoomIn;">
                 </div>
                 <div>
-                <img src="../img/cty/play_btn.png" alt="" style="height: 70px;width: 70px;position: absolute;left:0;right:0;margin:auto;top:43%">
+                    <img src="../img/cty/play_btn.png" alt="" style="height: 70px;width: 70px;position: absolute;left:0;right:0;margin:auto;top:43%">
 
                 </div>
 
@@ -266,7 +258,10 @@
                     <div class="service-icon">
                         <i class="fa fa-shield-alt text-white"></i>
                     </div>
-                    <h4 class="mb-3">QUẢNG CÁO ĐA NỀN TẢNG</h4>
+                    <div class="text-content">
+
+                        <h4 class="mb-3">QUẢNG CÁO ĐA NỀN TẢNG</h4>
+                    </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
@@ -278,7 +273,10 @@
                     <div class="service-icon">
                         <i class="fa fa-chart-pie text-white"></i>
                     </div>
-                    <h4 class="mb-3">CHĂM SÓC FANPAGE TRỌN GÓI</h4>
+                    <div class="text-content">
+
+                        <h4 class="mb-3">CHĂM SÓC FANPAGE <br>TRỌN GÓI</h4>
+                    </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
@@ -290,7 +288,10 @@
                     <div class="service-icon">
                         <i class="fa fa-code text-white"></i>
                     </div>
-                    <h4 class="mb-3">DỊCH VỤ SOCIAL SEEDING/TĂNG MEMBER GROUP</h4>
+                    <div class="text-content">
+
+                        <h4 class="mb-3">DỊCH VỤ SOCIAL SEEDING/TĂNG MEMBER GROUP</h4>
+                    </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
@@ -302,7 +303,10 @@
                     <div class="service-icon">
                         <i class="fab fa-android text-white"></i>
                     </div>
-                    <h4 class="mb-3">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
+                    <div class="text-content">
+
+                        <h4 class="mb-3">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
+                    </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
@@ -314,7 +318,10 @@
                     <div class="service-icon">
                         <i class="fa fa-search text-white"></i>
                     </div>
-                    <h4 class="mb-3">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
+                    <div class="text-content">
+
+                        <h4 class="mb-3">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
+                    </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
@@ -326,7 +333,10 @@
                     <div class="service-icon">
                         <i class="fa fa-search text-white"></i>
                     </div>
-                    <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO/THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
+                    <div class="text-content">
+
+                        <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO/THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
+                    </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
                         <i class="bi bi-arrow-right"></i>
@@ -342,19 +352,167 @@
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container py-5 mb-5">
         <div style="background: transparent !important;">
-            <div class="owl-carousel vendor-carousel">
-                <img src="img/vendor-1.jpg" alt="" class="logo-image">
-                <img src="img/vendor-2.jpg" alt="" class="logo-image">
-                <img src="img/vendor-3.jpg" alt="" class="logo-image">
-                <img src="img/vendor-4.jpg" alt="" class="logo-image">
-                <img src="img/vendor-5.jpg" alt="" class="logo-image">
-                <img src="img/vendor-6.jpg" alt="" class="logo-image">
-                <img src="img/vendor-7.jpg" alt="" class="logo-image">
-                <img src="img/vendor-8.jpg" alt="" class="logo-image">
-                <img src="img/vendor-9.jpg" alt="" class="logo-image">
+        <div class="row w-100">
+        <div class="scroll-parent scroll-element-to-left">
+            <div class="scroll-element primary d-flex flex-row">
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+            </div>
+            <div class="scroll-element secondary  d-flex flex-row">
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-parent scroll-element-to-right">
+            <div class="scroll-element primary d-flex flex-row">
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+            </div>
+            <div class="scroll-element secondary  d-flex flex-row">
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
+                        <p class="text-center">HTML</p>
+                    </div>
+                </div>
+                <div>
+                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
+                        <p class="text-center">CSS</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
+        </div>
+    </div>
+   
 </div>
 <!-- Vendor End -->
 
@@ -419,18 +577,3 @@
     </div>
 </div>
 <!-- Testimonial End -->
-
-<!-- About Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container py-5">
-        <div class="row g-5">
-            <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
-                <div class="bg-primary d-flex align-items-center justify-content-center rounded" id="btn-shake" style="width: 50%;height: 60px;color: white;text-combine-upright: white;border-radius:18px !important; margin:auto">
-                    <i class="fa fa-phone-alt text-white"></i> +84 588 007 777
-                </div>
-            </div>
-            <!-- <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a> -->
-        </div>
-    </div>
-</div>
-<!-- About End -->
