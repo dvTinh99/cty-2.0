@@ -715,9 +715,14 @@ h6,
 }
 
 .custome-box:hover {
-    color: white;
-    background-color: red !important;
+    color: white !important;
+    background-color: #1998ff !important;
 }
+
+.custome-box:hover h4{
+    color: white !important;
+}
+
 
 .link-animated a {
     transition: .5s;
