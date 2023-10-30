@@ -38,8 +38,15 @@
     <!-- <div id="particles-js"></div> -->
 
     <div style="position: fixed;z-index: -2;width: 100%;height:100%">
-        <video autoplay loop muted style="min-height: 100%;min-width:100%">
+        <video autoplay loop muted playsinline 
+        style="min-height: 100%;min-width:100%" 
+        controls="controls"
+        controls preload="auto"
+        disablePictureInPicture="true">
             <source type="video/mp4" src="../videos/back_ground_1_trim5s.mp4">
+            <source type="video/avi" src="../videos/back_ground_1_trim5s.avi">
+            <source type="video/webm" src="../videos/back_ground_1_trim5s.webm">
+            <p>This is fallback content to display for user agents that do not support the video tag.</p>
         </video>
     </div>
 
