@@ -64,7 +64,7 @@
             <div class="modal-body d-flex align-items-center justify-content-center">
                 <!-- video here -->
                 <div style="width: 100%;height:100%;overflow: hidden;">
-                    <iframe width="80%" height="70%" src="https://www.youtube.com/embed/DDXcMuVD_rs?si=GRytLkhSfCbFDxfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-left:10%;margin-top:3%">
+                    <iframe width="80%" height="70%" src="https://www.youtube.com/embed/xk7NtGtyjTg?si=UTZhSivQwYnQhJ58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-left:10%;margin-top:3%">
                     </iframe>
                 </div>
             </div>
@@ -355,158 +355,28 @@
         <div class="row w-100">
         <div class="scroll-parent scroll-element-to-left">
             <div class="scroll-element primary d-flex flex-row">
+                <?php 
+                    for($i = 1; $i <= 10; $i++) {
+                ?>
                 <div>
                     <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
+                        <img src="../img/cty/logo_doi_tac/logo_<?= $i ?>.png" width="100px" height="auto">
                     </div>
                 </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-            </div>
-            <div class="scroll-element secondary  d-flex flex-row">
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
+                <?php } ?>
             </div>
         </div>
         <div class="scroll-parent scroll-element-to-right">
             <div class="scroll-element primary d-flex flex-row">
+                <?php 
+                    for($i = 1; $i <= 10; $i++) {
+                ?>
                 <div>
                     <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
+                        <img src="../img/cty/logo_doi_tac/logo_<?= $i ?>.png" width="100px" height="auto">
                     </div>
                 </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-            </div>
-            <div class="scroll-element secondary  d-flex flex-row">
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100px" height="100px">
-                        <p class="text-center">HTML</p>
-                    </div>
-                </div>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img class="circle-img" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px" height="100px">
-                        <p class="text-center">CSS</p>
-                    </div>
-                </div>
+                <?php } ?>
             </div>
         </div>
     </div>
@@ -534,7 +404,7 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                Thật là một vinh hạnh khi làm việc cùng TechNam. Quy trình làm việc của TechNam rất chuyên nghiệp, thân thiện và nhanh chóng. Họ thực sự hiểu những nhu cầu của chúng tôi và luôn cung cấp những giải pháp, lời khuyên cũng như hỗ trợ mọi vấn đề về công nghệ. TechNam đã giúp chúng tôi phát triển mạnh mẽ, vượt bậc hơn chỉ sau vài tháng hợp tác.
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
@@ -546,7 +416,7 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                Tôi đã làm việc cùng TechNam từ tháng Ba năm nay. Tôi nhận thấy đội ngũ của TechNam rất chuyên nghiệp, siêng năng và hiệu quả. Đội ngũ nhân viên tại đây có sự hiểu biết rất sâu rộng về thị trường trong và ngoài nước. Tôi rất hài lòng khi làm việc cùng họ và tin rằng chúng tôi sẽ có nhiều dự án tuyệt vời trong những năm tới.
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
@@ -558,7 +428,7 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                Tôi đã làm việc cùng TechNam trong rất nhiều dự án vài tháng qua. Mỗi lần hợp tác, tôi đều ấn tượng với chất lượng làm việc cũng như sự quyết tâm của đội ngũ TechNam. Các kỹ thuật viên, tư vấn viên đã vượt qua những giờ làm việc căng thẳng và nguồn lực hạn chế, để đưa đến cho chúng tôi kết quả tuyệt vời. Tôi chắc chắn sẽ giới thiệu TechNam cho bất cứ ai tìm kiếm một đơn vị Marketing xuất sắc tại Việt Nam!
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
@@ -570,7 +440,7 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
-                    Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                Dịch vụ chạy quảng cáo, chăm sóc Fanpage của TechNam Group thực sự khiến tôi rất hài lòng, nhân viên chăm sóc khách hàng tận tâm, kỹ thuật viên nhiệt tình, hỗ trợ fix lỗi nhanh chóng. Tôi hoàn toàn yên tâm khi sử dụng dịch vụ tại đây và nhất định sẽ đồng hành cùng TechNam Group trong thời gian tới.
                 </div>
             </div>
         </div>
