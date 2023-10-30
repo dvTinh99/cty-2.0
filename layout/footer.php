@@ -2,7 +2,7 @@
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row gx-5">
-                <div class="col-lg-3 col-md-6 footer-about">
+                <div class="col-lg-3 col-md-6 footer-about" style="margin-bottom: 0 !important;">
                     <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
                         <a href="index.html" class="navbar-brand">
                             <img src="./img/cty/logo_white.png" alt="" style="width: 200px;height: 60px;">
@@ -63,16 +63,6 @@
                                 referrerpolicy="no-referrer-when-downgrade">
                             </iframe>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid text-white" style="background: #061429;">
-        <div class="container text-center">
-            <div class="row justify-content-end">
-                <div class="col-lg-8 col-md-6">
-                    <div class="d-flex align-items-center justify-content-center" style="height: 75px;">
                     </div>
                 </div>
             </div>
