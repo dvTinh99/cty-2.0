@@ -1,41 +1,3 @@
-<div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" style="z-index: -2;">
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img class="w-100" src="img/carousel-1.jpg" alt="Image">
-            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                <div class="p-3" style="max-width: 900px;">
-                    <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
-                    <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
-                    <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
-                </div>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img class="w-100" src="img/carousel-2.jpg" alt="Image">
-            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                <div class="p-3" style="max-width: 900px;">
-                    <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
-                    <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
-                    <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-    </button>
-</div>
-</div>
-<!-- Navbar & Carousel End -->
-
-
 <!-- Full Screen Search Start -->
 <div class="modal fade" id="searchModal">
     <div class="modal-dialog modal-fullscreen">
@@ -165,7 +127,7 @@
             </div>
             <div class="col-lg-8  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px; visibility: visible; animation-delay: 0.9s; animation-name: zoomIn;" data-bs-toggle="modal" data-bs-target="#videoModal">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="https://intudovc.com/wp-content/uploads/2022/11/Intudo-2022-The-only-_Indonesia-only_-VC-0-12-screenshot-1024x576.png" style="object-fit: cover; visibility: visible; animation-delay: 0.1s; animation-name: zoomIn;">
+                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="../img/cty/thumnail.jpg" style="object-fit: cover; visibility: visible; animation-delay: 0.1s; animation-name: zoomIn;">
                 </div>
                 <div>
                     <img src="../img/cty/play_btn.png" alt="" style="height: 70px;width: 70px;position: absolute;left:0;right:0;margin:auto;top:43%">

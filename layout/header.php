@@ -37,9 +37,9 @@
     
     <!-- <div id="particles-js"></div> -->
 
-    <div style="position: fixed;z-index: -2;width: 100%;height:100%">
+    <div style="position: fixed;z-index: -2;width: 100%;height:100%;top:0;bottom: 0;">
         <video autoplay loop muted playsinline 
-        style="min-height: 100%;min-width:100%" 
+        style="min-height: 100%;min-width:100%;object-fit:cover" 
         controls="controls"
         controls preload="auto"
         disablePictureInPicture="true">
@@ -117,5 +117,4 @@
                 <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
             </div>
         </nav>
-        <script src="../js/particles.js"></script>
-        <script src="../js/background.js"></script>
+        

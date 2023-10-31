@@ -102,6 +102,8 @@
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- Template Javascript -->
+    <script src="../js/particles.js"></script>
+    <script src="../js/background.js"></script>
     <script src="js/main.js"></script>
     </body>
 
