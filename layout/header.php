@@ -43,9 +43,9 @@
         controls="controls"
         controls preload="auto"
         disablePictureInPicture="true">
-            <source type="video/mp4" src="../videos/back_ground_1_trim5s.mp4">
-            <source type="video/avi" src="../videos/back_ground_1_trim5s.avi">
-            <source type="video/webm" src="../videos/back_ground_1_trim5s.webm">
+            <source type="video/mp4" src="../videos/2.mp4">
+            <!-- <source type="video/avi" src="../videos/back_ground_1_trim5s.avi">
+            <source type="video/webm" src="../videos/back_ground_1_trim5s.webm"> -->
             <p>This is fallback content to display for user agents that do not support the video tag.</p>
         </video>
     </div>
