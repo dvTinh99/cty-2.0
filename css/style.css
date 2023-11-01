@@ -194,6 +194,12 @@ p {
     width: 150px;
 }
 
+video {
+    width: 100% !important;
+    height: auto;
+    object-fit:cover
+}
+
 /*** Spinner ***/
 .spinner {
     width: 40px;
