@@ -46,8 +46,11 @@
                         <i class="fa fa-users"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-white mb-0">Happy Clients</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <div style="display:flex">
+                            <h1 class="text-white mb-0" data-toggle="counter-up">50,000</h1>
+                            <h1>+</h1>
+                        </div>
+                        <h5 class="text-white mb-0">Khách hàng</h5>
                     </div>
                 </div>
             </div>
@@ -57,8 +60,12 @@
                         <i class="fa fa-check text-white"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-primary mb-0" style="color: #0040FC !important">Projects Done</h5>
-                        <h1 class="mb-0" data-toggle="counter-up" style="color: #0040FC !important">12345</h1>
+                        <div style="display:flex">
+                    
+                        <h1 class="mb-0" data-toggle="counter-up" style="color: #0040FC !important">100,000</h1>
+                        <h1 style="color: #0040FC !important">+</h1>
+                    </div>
+                        <h5 class="text-primary mb-0" style="color: #0040FC !important">Dự án hoàn thành</h5>
                     </div>
                 </div>
             </div>
@@ -68,8 +75,12 @@
                         <i class="fa fa-award"></i>
                     </div>
                     <div class="ps-4">
-                        <h5 class="text-white mb-0">Win Awards</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">12345</h1>
+                        <div style="display:flex">
+                    
+                        <h1 class="text-white mb-0" data-toggle="counter-up">100</h1>
+                        <h1>+</h1>
+                    </div>
+                        <h5 class="text-white mb-0">Nhân sự</h5>
                     </div>
                 </div>
             </div>
@@ -167,14 +178,14 @@
                             <i class="fa fa-cubes text-white"></i>
                         </div>
                         <h4>Uy tín</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <p class="mb-0">TechNam Group quy tụ đội ngũ chuyên viên giàu kinh nghiệm, đã thực chiến qua nhiều dự án. Chúng tôi đảm bảo hoàn thành tốt công việc theo như cam kết với quý đối tác/khách hàng; thực hiện đúng tiến độ và xử lý nhanh, gọn mọi dự án.</p>
                     </div>
                     <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-award text-white"></i>
                         </div>
                         <h4>Chuyên Nghiệp</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <p class="mb-0">Xây dựng kế hoạch từ tổng thể đến chi tiết là phương châm hoạt động của TechNam Group. Điều này giúp chúng tôi tạo nên giá trị bền vững, tối ưu chi phí chiến dịch và mang hiệu quả đầu tư tối đa cho quý đối tác/khách hàng.</p>
                     </div>
                 </div>
             </div>
@@ -190,14 +201,14 @@
                             <i class="fa fa-users-cog text-white"></i>
                         </div>
                         <h4>Sáng tạo</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <p class="mb-0">Đây là mục tiêu hàng đầu và yếu tố tạo sự khác biệt của mọi ý tưởng, chiến dịch do TechNam Group đảm nhiệm. Dựa trên mong muốn của đối tác - khách hàng, chúng tôi dành tất cả tâm huyết, trí lực để hoàn thành sản phẩm phù hợp nhất.</p>
                     </div>
                     <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-phone-alt text-white"></i>
                         </div>
-                        <h4>Tối ưu ngân sách</h4>
-                        <p class="mb-0">Magna sea eos sit dolor, ipsum amet lorem diam dolor eos et diam dolor</p>
+                        <h4>Nhanh chóng</h4>
+                        <p class="mb-0">Sở hữu hơn 100+ nhân sự, TechNam Group tự hào là đơn vị chuyên cung cấp và triển khai các giải pháp Marketing Online nhanh chóng. Tăng doanh thu, kích thích thị hiếu, tạo chuyển đổi tích cực cho doanh nghiệp của bạn!</p>
                     </div>
                 </div>
             </div>
@@ -252,7 +263,7 @@
                     </div>
                     <div class="text-content">
 
-                        <h4 class="mb-3">DỊCH VỤ SOCIAL SEEDING/TĂNG MEMBER GROUP</h4>
+                        <h4 class="mb-3">THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -297,7 +308,7 @@
                     </div>
                     <div class="text-content">
 
-                        <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO/THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
+                        <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -361,8 +372,8 @@
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;">
                     <div class="ps-4">
-                        <h4 class="text-primary mb-1">Client Name</h4>
-                        <small class="text-uppercase">Profession</small>
+                        <h4 class="text-primary mb-1">Minh Hằng</h4>
+                        <small class="text-uppercase">Quản lý nhà hàng</small>
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
@@ -373,8 +384,8 @@
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;">
                     <div class="ps-4">
-                        <h4 class="text-primary mb-1">Client Name</h4>
-                        <small class="text-uppercase">Profession</small>
+                        <h4 class="text-primary mb-1">Ngọc Hùng</h4>
+                        <small class="text-uppercase">CEO lĩnh vực F&B</small>
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
@@ -385,8 +396,8 @@
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;">
                     <div class="ps-4">
-                        <h4 class="text-primary mb-1">Client Name</h4>
-                        <small class="text-uppercase">Profession</small>
+                        <h4 class="text-primary mb-1">Cẩm Phượng</h4>
+                        <small class="text-uppercase">Chủ shop thời trang</small>
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">
@@ -397,8 +408,8 @@
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 60px; height: 60px;">
                     <div class="ps-4">
-                        <h4 class="text-primary mb-1">Client Name</h4>
-                        <small class="text-uppercase">Profession</small>
+                        <h4 class="text-primary mb-1">Nhật Minh</h4>
+                        <small class="text-uppercase">Dịch vụ lữ hành</small>
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5">

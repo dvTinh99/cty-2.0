@@ -82,8 +82,8 @@
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.html" class="navbar-brand p-0">
-                <img style="width: 200px;height: 60px;" id="logo_menu">
+            <a href="index.html" class="navbar-brand p-0" id="logo_menu">
+                <!-- <img style="width: auto;height: 60px;" > -->
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>

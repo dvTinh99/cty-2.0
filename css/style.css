@@ -169,6 +169,10 @@ p {
     height: 450px !important;
 }
 
+h4.text-primary.mb-1 {
+    color : black !important;
+}
+
 #btn-shake:hover {
     animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
     transform: translate3d(0, 0, 0);
@@ -195,9 +199,35 @@ p {
 }
 
 video {
-    width: auto !important;
+    width: 100% !important;
     height: 100% !important;
     object-fit:cover
+}
+
+audio::-webkit-media-controls-timeline,
+video::-webkit-media-controls-timeline {
+    display: none;
+}
+audio::-webkit-media-controls,
+video::-webkit-media-controls {
+    display: none;
+}
+
+.sticky-top.shadow-sm .active{
+    height: 53px;
+}
+
+.sticky-top.shadow-sm img{
+    width: auto !important;
+    height: 39px !important;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.px-5.py-3.py-lg-0.sticky-top.shadow-sm {
+    height: 40px;
+}
+
+#logo_menu {
+    background-image: url('../');
 }
 
 /*** Spinner ***/
