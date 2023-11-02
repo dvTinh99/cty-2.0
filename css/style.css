@@ -226,9 +226,6 @@ nav.navbar.navbar-expand-lg.navbar-dark.px-5.py-3.py-lg-0.sticky-top.shadow-sm {
     height: 40px;
 }
 
-#logo_menu {
-    background-image: url('../');
-}
 
 /*** Spinner ***/
 .spinner {
