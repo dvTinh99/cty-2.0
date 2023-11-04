@@ -122,8 +122,11 @@
                 <!-- <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a> -->
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
-                <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/about.jpg" style="object-fit: cover;">
+                <div class="position-relative h-100" data-bs-toggle="modal" data-bs-target="#videoModal">
+                    <img src="../img/cty/thumnail.jpg" style="height:100%;width:100%;object-fit:contain">
+                    <div>
+                        <img src="../img/cty/play_btn.png" alt="" style="height: 70px;width: 70px;position: absolute;left:0;right:0;margin:auto;top:43%">
+                    </div>
                 </div>
             </div>
         </div>
@@ -131,7 +134,7 @@
 </div>
 <!-- About End -->
 
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" style="text-transform: uppercase;position: relative;">
+<!-- <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" style="text-transform: uppercase;position: relative;">
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-2">
@@ -149,17 +152,8 @@
             <div class="col-lg-2">
             </div>
         </div>
-        <!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#videoModal">
-            Launch demo modal
-        </button>
-
-        <butaton type="button" class="btn text-primary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal">
-            <i class="fa fa-search">
-                
-            </i>
-        </butaton> -->
     </div>
-</div>
+</div> -->
 
 
 <!-- Features Start -->

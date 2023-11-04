@@ -173,6 +173,14 @@ span.text-hotline {
     transition : all .4s ease;
 }
 
+#background {
+    background:linear-gradient(#0f5fd9, #011e7d);
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+    z-index: -1;
+}
+
 #particles-js {
     z-index: -2;
     /* background-color: #3366ff; */

@@ -35,7 +35,7 @@
 <body>
     <!-- Spinner Start -->
     
-    <div id="background" style="background:linear-gradient(#0f5fd9, #011e7d);height: 100vh;position: fixed;width: 100%;"></div>
+    <div id="background"></div>
 
     <!-- <div style="position: fixed;z-index: -2;width: 100%;height:100%;top:0;bottom: 0;">
         <video autoplay loop muted playsinline 
