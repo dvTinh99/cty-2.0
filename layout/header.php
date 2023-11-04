@@ -35,7 +35,7 @@
 <body>
     <!-- Spinner Start -->
     
-    <div id="particles-js"></div>
+    <div id="background" style="background:linear-gradient(#0f5fd9, #011e7d);height: 100vh;position: fixed;width: 100%;"></div>
 
     <!-- <div style="position: fixed;z-index: -2;width: 100%;height:100%;top:0;bottom: 0;">
         <video autoplay loop muted playsinline 
@@ -81,9 +81,9 @@
 
     <!-- Navbar & Carousel Start -->
     <div class="container-fluid position-fix p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0" style="position:fixed;height:70px">
+        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0" id="top-menu">
             <a href="index.html" class="navbar-brand p-0">
-                <img style="width: auto;height: 60px;" id="logo_menu">
+                <img style="width: auto;height: 45px;" id="logo_menu">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars"></span>

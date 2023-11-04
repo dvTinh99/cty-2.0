@@ -161,6 +161,18 @@ span.text-hotline {
     text-align: center;
 }
 
+.carousel-caption {
+    background: none !important;
+}
+
+#top-menu {
+    position:fixed;
+    height:70px;
+    background-color: #02205033;
+    backdrop-filter : blur(40px);
+    transition : all .4s ease;
+}
+
 #particles-js {
     z-index: -2;
     /* background-color: #3366ff; */
