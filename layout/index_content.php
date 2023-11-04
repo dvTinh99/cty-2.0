@@ -355,7 +355,19 @@
 
 
 <!-- Testimonial Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" id="customer-feedback">
+    .
+    <div class="customer-feedback-background">
+        <div class="mask">
+            <video autoplay loop muted playsinline 
+                controls="controls"
+                controls preload="auto"
+                disablePictureInPicture="true">
+                    <source type="video/mp4" src="../videos/before_footer_background.mp4">
+                    <p>This is fallback content to display for user agents that do not support the video tag.</p>
+            </video>
+        </div>
+    </div>
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>

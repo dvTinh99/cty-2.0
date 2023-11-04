@@ -1,5 +1,6 @@
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s" style="margin-top:0 !important">
+    
         <div class="container">
             <div class="row gx-5">
                 <div class="col-lg-3 col-md-6 footer-about" style="margin-bottom: 0 !important;">
@@ -103,8 +104,8 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="../js/particles.js"></script>
-    <script src="../js/background.js"></script>
+    <!-- <script src="../js/particles.js"></script> -->
+    <!-- <script src="../js/background.js"></script> -->
     <script src="js/main.js"></script>
     </body>
 

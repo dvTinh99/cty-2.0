@@ -2,7 +2,7 @@
 include('./layout/header.php')
 ?>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" data-bs-interval="14000">
+<div id="carouselExampleIndicators" class="carousel" data-bs-ride="carousel" data-bs-interval="15000">
     <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -39,21 +39,7 @@ include('./layout/header.php')
         </div>
         <div class="carousel-item">
             <video autoplay loop muted playsinline controls="controls" controls preload="auto" disablePictureInPicture="true">
-                <source type="video/mp4" src="../videos/4.mp4">
-                <p>This is fallback content to display for user agents that do not support the video tag.</p>
-            </video>
-            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                <div class="p-3" style="max-width: 900px;">
-                    <h5 class="text-white text-uppercase mb-3 animated slideInDown">Tiên phong và đổi mới</h5>
-                    <h1 class="display-1 text-white mb-md-4 animated zoomIn">Giải pháp Digital Marketing toàn diện</h1>
-                    <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Dự án</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Liên hệ</a>
-                </div>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <video autoplay loop muted playsinline controls="controls" controls preload="auto" disablePictureInPicture="true">
-                <source type="video/mp4" src="../videos/4.mp4">
+                <source type="video/mp4" src="../videos/slide/slide_video_3.mp4">
                 <p>This is fallback content to display for user agents that do not support the video tag.</p>
             </video>
             <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
