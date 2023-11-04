@@ -35,19 +35,19 @@
 <body>
     <!-- Spinner Start -->
     
-    <!-- <div id="particles-js"></div> -->
+    <div id="particles-js"></div>
 
-    <div style="position: fixed;z-index: -2;width: 100%;height:100%;top:0;bottom: 0;">
+    <!-- <div style="position: fixed;z-index: -2;width: 100%;height:100%;top:0;bottom: 0;">
         <video autoplay loop muted playsinline 
         controls="controls"
         controls preload="auto"
         disablePictureInPicture="true">
             <source type="video/mp4" src="../videos/2.mp4">
-            <!-- <source type="video/avi" src="../videos/back_ground_1_trim5s.avi">
-            <source type="video/webm" src="../videos/back_ground_1_trim5s.webm"> -->
+            <source type="video/avi" src="../videos/back_ground_1_trim5s.avi">
+            <source type="video/webm" src="../videos/back_ground_1_trim5s.webm">
             <p>This is fallback content to display for user agents that do not support the video tag.</p>
         </video>
-    </div>
+    </div> -->
 
     <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner"></div>
@@ -56,7 +56,7 @@
 
 
     <!-- Topbar Start -->
-    <div class="container-fluid bg-dark px-5 d-none d-lg-block" style="background-color: #208DFF !important">
+    <!-- <div class="container-fluid bg-dark px-5 d-none d-lg-block" style="background-color: #208DFF !important">
         <div class="row gx-0">
             <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
@@ -75,13 +75,13 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Topbar End -->
 
 
     <!-- Navbar & Carousel Start -->
-    <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+    <div class="container-fluid position-fix p-0">
+        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0" style="position:fixed;height:70px">
             <a href="index.html" class="navbar-brand p-0">
                 <img style="width: auto;height: 60px;" id="logo_menu">
             </a>

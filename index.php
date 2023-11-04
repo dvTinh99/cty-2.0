@@ -3,9 +3,29 @@ include('./layout/header.php')
 ?>
 
 <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <!-- <div class="container-fluid" style="padding-right:0;padding-left:0">
+    <video autoplay loop muted playsinline 
+        controls="controls"
+        controls preload="auto"
+        disablePictureInPicture="true">
+            <source type="video/mp4" src="../videos/3.mp4">
+            <p>This is fallback content to display for user agents that do not support the video tag.</p>
+        </video>
+    </div> -->
+    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+        <video autoplay loop muted playsinline 
+            controls="controls"
+            controls preload="auto"
+            disablePictureInPicture="true">
+                <source type="video/mp4" src="../videos/3.mp4">
+                <p>This is fallback content to display for user agents that do not support the video tag.</p>
+        </video>
             <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                 <div class="p-3" style="max-width: 900px;">
                     <h5 class="text-white text-uppercase mb-3 animated slideInDown">Tiên phong và đổi mới</h5>
@@ -27,14 +47,14 @@ include('./layout/header.php')
             </div>
         </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+    <!-- <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
     </button>
     <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
-    </button>
+    </button> -->
 </div>
 </div>
 <!-- Navbar & Carousel End -->

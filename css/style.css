@@ -153,6 +153,14 @@ p {
     border-color: #0040FC !important;
 }
 
+a.nav-item.nav-link.active {
+    height: 83px!important;
+}
+
+span.text-hotline {
+    text-align: center;
+}
+
 #particles-js {
     z-index: -2;
     /* background-color: #3366ff; */
