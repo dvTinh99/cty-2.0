@@ -130,6 +130,7 @@ body {
 
 .bg-primary {
     background-color: #0040FC !important;
+    box-shadow: 0px 0px 18px 4px #0335c3;
 }
 
 .text-primary {

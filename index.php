@@ -11,7 +11,21 @@ include('./layout/header.php')
     <div class="carousel-inner">
         <div class="carousel-item active">
             <video autoplay loop muted playsinline controls="controls" controls preload="auto" disablePictureInPicture="true">
-                <source type="video/mp4" src="../videos/3.mp4">
+                <source type="video/mp4" src="../videos/slide/slide_video_1.mp4">
+                <p>This is fallback content to display for user agents that do not support the video tag.</p>
+            </video>
+            <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                <div class="p-3" style="max-width: 900px;">
+                    <h5 class="text-white text-uppercase mb-3 animated slideInDown">Tiên phong và đổi mới</h5>
+                    <h1 class="display-1 text-white mb-md-4 animated zoomIn">Giải pháp Digital Marketing toàn diện</h1>
+                    <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Dự án</a>
+                    <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Liên hệ</a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <video autoplay loop muted playsinline controls="controls" controls preload="auto" disablePictureInPicture="true">
+                <source type="video/mp4" src="../videos/slide/slide_video_2.mp4">
                 <p>This is fallback content to display for user agents that do not support the video tag.</p>
             </video>
             <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
