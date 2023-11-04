@@ -145,9 +145,11 @@ body {
 .customer-feedback-background {
     position: absolute;
     bottom: 0;
-    background: (to bottom, #011E4D 0%, #0f5fd9 50%, #000080 100%);
     height: 100%;
     width: 100%;
+    background-color: #02205033;
+    backdrop-filter : blur(40px);
+    transition: all .4s ease;
 }
 
 .text-primary {
@@ -197,6 +199,44 @@ span.text-hotline {
     position: fixed;
     width: 100%;
     z-index: -1;
+}
+
+#background-backup {
+    background-color: #02205033;
+    backdrop-filter : blur(40px);
+    transition : all .4s ease;
+    height: 10vh;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    z-index: 1;
+}
+
+#thiet_ke_website {
+    background-image: url('../img/cty/services/thiet_ke_web.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+
+}
+
+#cham_soc_page {
+    background-image: url('../img/cty/services/cham_soc_page.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+
+}
+
+#quang_cao_da_nen_tang {
+    background-image: url('../img/cty/services/quang_cao_da_nen_tang.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+
+}
+#thiet_ke_bo_phan_thuong_hieu {
+    background-image: url('../img/cty/services/thiet_ke_bo_phan_thuong_hieu.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+
 }
 
 #particles-js {
@@ -328,6 +368,7 @@ nav.navbar.navbar-expand-lg.navbar-dark.px-5.py-3.py-lg-0.sticky-top.shadow-sm {
 }
 
 .mask {
+    /* height: 10%; */
     background-color: #02205033;
     backdrop-filter : blur(40px);
     transition: all .4s ease;

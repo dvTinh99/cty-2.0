@@ -221,13 +221,10 @@
         </div>
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
-                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fa fa-shield-alt text-white"></i>
-                    </div>
+                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="quang_cao_da_nen_tang">
                     <div class="text-content">
 
-                        <h4 class="mb-3">QUẢNG CÁO ĐA NỀN TẢNG</h4>
+                        <h4 class="mb-3 text-white">QUẢNG CÁO ĐA NỀN TẢNG</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -236,13 +233,9 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
-                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fa fa-chart-pie text-white"></i>
-                    </div>
+                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="cham_soc_page">
                     <div class="text-content">
-
-                        <h4 class="mb-3">CHĂM SÓC FANPAGE <br>TRỌN GÓI</h4>
+                        <h4 class="mb-3 text-white">CHĂM SÓC FANPAGE <br>TRỌN GÓI</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -266,13 +259,9 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
-                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fab fa-android text-white"></i>
-                    </div>
+                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_bo_phan_thuong_hieu">
                     <div class="text-content">
-
-                        <h4 class="mb-3">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -281,13 +270,10 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
-                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fa fa-search text-white"></i>
-                    </div>
+                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_website">
                     <div class="text-content">
 
-                        <h4 class="mb-3">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -356,24 +342,23 @@
 
 <!-- Testimonial Start -->
 <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" id="customer-feedback">
-    .
     <div class="customer-feedback-background">
         <div class="mask">
-            <video autoplay loop muted playsinline 
-                controls="controls"
-                controls preload="auto"
-                disablePictureInPicture="true">
-                    <source type="video/mp4" src="../videos/before_footer_background.mp4">
-                    <p>This is fallback content to display for user agents that do not support the video tag.</p>
-            </video>
         </div>
+        <video autoplay loop muted playsinline 
+            controls="controls"
+            controls preload="auto"
+            disablePictureInPicture="true">
+                <source type="video/mp4" src="../videos/before_footer_background.mp4">
+                <p>This is fallback content to display for user agents that do not support the video tag.</p>
+        </video>
     </div>
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>
             <h1 class="mb-0">KHÁCH HÀNG NÓI GÌ VỀ TECHNAM</h1>
         </div>
-        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
+        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s" style="padding:10px">
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;">
