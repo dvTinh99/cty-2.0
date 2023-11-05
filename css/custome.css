@@ -1,0 +1,61 @@
+#quang_cao_da_nen_tang {
+    background-image: url('../img/cty/services/quang_cao_da_nen_tang.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+#thiet_ke_website {
+    background-image: url('../img/cty/services/thiet_ke_web.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+#cham_soc_page {
+    background-image: url('../img/cty/services/cham_soc_page.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+    
+}
+
+#thiet_ke_bo_phan_thuong_hieu {
+    background-image: url('../img/cty/services/thiet_ke_bo_phan_thuong_hieu.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.mask-service {
+    position: absolute;
+    height: 30%;
+    width: 100%;
+    background: #067cfd;
+    opacity: 0.8;
+    bottom: 0;
+    transition: height 1s;
+}
+
+#cham_soc_page, 
+#quang_cao_da_nen_tang 
+.text-content {
+    position: absolute;
+    z-index: 99;
+    bottom: 5%;
+    transition: bottom 1s;
+}
+
+#cham_soc_page:hover, 
+#quang_cao_da_nen_tang:hover 
+.mask-service {
+    height: 100%;
+    border-radius: 15px;
+}
+
+#cham_soc_page:hover,
+#quang_cao_da_nen_tang:hover 
+.text-content {
+    bottom: 40%;
+}
+

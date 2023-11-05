@@ -222,8 +222,8 @@
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="quang_cao_da_nen_tang">
-                    <div class="text-content">
-
+                <div class="mask-service"></div>    
+                <div class="text-content">
                         <h4 class="mb-3 text-white">QUẢNG CÁO ĐA NỀN TẢNG</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -234,6 +234,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="cham_soc_page">
+                    <div class="mask-service"></div>
                     <div class="text-content">
                         <h4 class="mb-3 text-white">CHĂM SÓC FANPAGE <br>TRỌN GÓI</h4>
                     </div>
@@ -245,9 +246,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fa fa-code text-white"></i>
-                    </div>
+                <div class="mask-service"></div>
                     <div class="text-content">
 
                         <h4 class="mb-3">THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
@@ -260,7 +259,8 @@
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_bo_phan_thuong_hieu">
-                    <div class="text-content">
+                <div class="mask-service"></div>    
+                <div class="text-content">
                         <h4 class="mb-3 text-white">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -271,7 +271,8 @@
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_website">
-                    <div class="text-content">
+                <div class="mask-service"></div>    
+                <div class="text-content">
 
                         <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
                     </div>
@@ -283,9 +284,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                    <div class="service-icon">
-                        <i class="fa fa-search text-white"></i>
-                    </div>
+                <div class="mask-service"></div>
                     <div class="text-content">
 
                         <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO</h4>

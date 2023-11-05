@@ -30,6 +30,7 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/contract-button.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/custome.css">
 </head>
 
 <body>
