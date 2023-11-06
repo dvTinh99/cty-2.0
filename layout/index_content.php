@@ -185,7 +185,29 @@
             </div>
             <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/feature.jpg" style="object-fit: cover;">
+                    <!-- <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/feature.jpg" style="object-fit: cover;"> -->
+                    <div id="carouselExampleIndicators2" class="carousel" data-bs-ride="carousel" style="height: 100%;">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                    </div>
+                    <div class="carousel-inner" style="height: 100%;">
+                        <div class="carousel-item active">
+                            <img src="../img/cty/why_choose_us/1.jpg" class="d-block w-100" alt="..." width="auto">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/cty/why_choose_us/2.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/cty/why_choose_us/3.jpg" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/cty/why_choose_us/4.jpg" class="d-block w-100" alt="...">
+                        </div>
+                    </div>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -245,11 +267,11 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
-                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_hinh_anh_theo_yeu_cau">
                 <div class="mask-service"></div>
                     <div class="text-content">
 
-                        <h4 class="mb-3">THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -283,11 +305,11 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
-                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="content_chuan_seo">
                 <div class="mask-service"></div>
                     <div class="text-content">
 
-                        <h4 class="mb-3">VIẾT CONTENT CHUẨN SEO</h4>
+                        <h4 class="mb-3 text-white">VIẾT CONTENT CHUẨN SEO</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">

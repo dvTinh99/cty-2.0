@@ -1,3 +1,28 @@
+#cham_soc_page {
+    background-image: url('../img/cty/services/cham_soc_page.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+    
+}
+
+#thiet_ke_hinh_anh_theo_yeu_cau {
+    color: white;
+    background-image: url('../img/cty/services/thiet_ke_hinh_anh_theo_yeu_cau.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+    
+}
+
+#content_chuan_seo {
+    background-image: url('../img/cty/services/content_chuan_seo.jpg');
+    background-repeat : round;
+    background-size: 100% 100%;
+    position: relative;
+    
+}
+
 #quang_cao_da_nen_tang {
     background-image: url('../img/cty/services/quang_cao_da_nen_tang.jpg');
     background-repeat : round;
@@ -10,14 +35,6 @@
     background-repeat : round;
     background-size: 100% 100%;
     position: relative;
-}
-
-#cham_soc_page {
-    background-image: url('../img/cty/services/cham_soc_page.jpg');
-    background-repeat : round;
-    background-size: 100% 100%;
-    position: relative;
-    
 }
 
 #thiet_ke_bo_phan_thuong_hieu {
@@ -37,25 +54,49 @@
     transition: height 1s;
 }
 
-#cham_soc_page, 
-#quang_cao_da_nen_tang 
-.text-content {
+#cham_soc_page .text-content, 
+#content_chuan_seo .text-content, 
+#thiet_ke_hinh_anh_theo_yeu_cau .text-content, 
+#quang_cao_da_nen_tang .text-content,
+#thiet_ke_website .text-content,
+#thiet_ke_bo_phan_thuong_hieu .text-content
+{
     position: absolute;
     z-index: 99;
     bottom: 5%;
     transition: bottom 1s;
 }
 
-#cham_soc_page:hover, 
-#quang_cao_da_nen_tang:hover 
-.mask-service {
+#cham_soc_page:hover .mask-service, 
+#content_chuan_seo:hover .mask-service, 
+#thiet_ke_hinh_anh_theo_yeu_cau:hover .mask-service, 
+#quang_cao_da_nen_tang:hover .mask-service ,
+#thiet_ke_website:hover .mask-service, 
+#thiet_ke_bo_phan_thuong_hieu:hover .mask-service
+{
     height: 100%;
     border-radius: 15px;
 }
 
-#cham_soc_page:hover,
-#quang_cao_da_nen_tang:hover 
-.text-content {
+#cham_soc_page:hover .text-content,
+#content_chuan_seo:hover .text-content,
+#thiet_ke_hinh_anh_theo_yeu_cau:hover .text-content,
+#quang_cao_da_nen_tang:hover .text-content,
+#thiet_ke_website:hover .text-content,
+#thiet_ke_bo_phan_thuong_hieu:hover .text-content 
+{
     bottom: 40%;
 }
 
+
+
+/* ********************************** */
+
+.carousel-item {
+    height: 100%;
+    width: auto;
+}
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+}
