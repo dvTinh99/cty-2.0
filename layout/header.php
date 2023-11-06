@@ -37,19 +37,6 @@
     <!-- Spinner Start -->
     
     <div id="background"></div>
-    <!-- <div id="background-backup"></div> -->
-
-    <!-- <div style="position: fixed;z-index: -2;width: 100%;height:100%;top:0;bottom: 0;">
-        <video autoplay loop muted playsinline 
-        controls="controls"
-        controls preload="auto"
-        disablePictureInPicture="true">
-            <source type="video/mp4" src="../videos/2.mp4">
-            <source type="video/avi" src="../videos/back_ground_1_trim5s.avi">
-            <source type="video/webm" src="../videos/back_ground_1_trim5s.webm">
-            <p>This is fallback content to display for user agents that do not support the video tag.</p>
-        </video>
-    </div> -->
 
     <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner"></div>
@@ -57,28 +44,6 @@
     <!-- Spinner End -->
 
 
-    <!-- Topbar Start -->
-    <!-- <div class="container-fluid bg-dark px-5 d-none d-lg-block" style="background-color: #208DFF !important">
-        <div class="row gx-0">
-            <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <small class="me-3 text-light"><i class="fa fa-map-marker-alt me-2"></i>TẦNG 8, TÒA NHÀ VT - CẦU GIẤY -HÀ NỘI.</small>
-                    <small class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+84 588 007 777</small>
-                    <small class="text-light"><i class="fa fa-envelope-open me-2"></i>ADMTECHNAMGROUP@GMAIL.COM</small>
-                </div>
-            </div>
-            <div class="col-lg-4 text-center text-lg-end">
-                <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Topbar End -->
 
 
     <!-- Navbar & Carousel Start -->
