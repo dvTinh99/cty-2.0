@@ -97,9 +97,10 @@
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
                     <h5 class="fw-bold text-primary text-uppercase">Về chúng tôi</h5>
-                    <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
+                    <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG <br /> CÔNG NGHỆ</h1>
                 </div>
-                <p class="mb-4">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam Group đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam Group góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam Group sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam Group - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
+                <p class="mb-4" style="text-align: justify;">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam Group đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam Group góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam Group sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam Group - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
+                <p class="mb-4 fst-italic fw-bold" style="text-align: justify;">Officially launched in 2015, TechNam Group has accumulated nearly 10 years of experience in the field of Marketing and Communications. TechNam Group's Online Marketing solutions have played a significant role in building and developing brands, as well as increasing revenue for hundreds of businesses, both large and small. With access to cutting-edge technologies and a professional workflow, TechNam Group possesses an experienced technical team, confidently delivering high-quality products and the best services to its customers. TechNam Group - Helping businesses conquer customers at every online touchpoint. </p>
                 <!-- <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Uy tín</h5>
@@ -172,14 +173,14 @@
                             <i class="fa fa-cubes text-white"></i>
                         </div>
                         <h4>Uy tín</h4>
-                        <p class="mb-0">TechNam Group quy tụ đội ngũ chuyên viên giàu kinh nghiệm, đã thực chiến qua nhiều dự án. Chúng tôi đảm bảo hoàn thành tốt công việc theo như cam kết với quý đối tác/khách hàng; thực hiện đúng tiến độ và xử lý nhanh, gọn mọi dự án.</p>
+                        <p class="mb-0 text-align-justify">TechNam Group quy tụ đội ngũ chuyên viên giàu kinh nghiệm, đã thực chiến qua nhiều dự án. Chúng tôi đảm bảo hoàn thành tốt công việc theo như cam kết với quý đối tác/khách hàng; thực hiện đúng tiến độ và xử lý nhanh, gọn mọi dự án.</p>
                     </div>
                     <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-award text-white"></i>
                         </div>
                         <h4>Chuyên Nghiệp</h4>
-                        <p class="mb-0">Xây dựng kế hoạch từ tổng thể đến chi tiết là phương châm hoạt động của TechNam Group. Điều này giúp chúng tôi tạo nên giá trị bền vững, tối ưu chi phí chiến dịch và mang hiệu quả đầu tư tối đa cho quý đối tác/khách hàng.</p>
+                        <p class="mb-0 text-align-justify">Xây dựng kế hoạch từ tổng thể đến chi tiết là phương châm hoạt động của TechNam Group. Điều này giúp chúng tôi tạo nên giá trị bền vững, tối ưu chi phí chiến dịch và mang hiệu quả đầu tư tối đa cho quý đối tác/khách hàng.</p>
                     </div>
                 </div>
             </div>
@@ -217,14 +218,14 @@
                             <i class="fa fa-users-cog text-white"></i>
                         </div>
                         <h4>Sáng tạo</h4>
-                        <p class="mb-0">Đây là mục tiêu hàng đầu và yếu tố tạo sự khác biệt của mọi ý tưởng, chiến dịch do TechNam Group đảm nhiệm. Dựa trên mong muốn của đối tác - khách hàng, chúng tôi dành tất cả tâm huyết, trí lực để hoàn thành sản phẩm phù hợp nhất.</p>
+                        <p class="mb-0 text-align-justify">Đây là mục tiêu hàng đầu và yếu tố tạo sự khác biệt của mọi ý tưởng, chiến dịch do TechNam Group đảm nhiệm. Dựa trên mong muốn của đối tác - khách hàng, chúng tôi dành tất cả tâm huyết, trí lực để hoàn thành sản phẩm phù hợp nhất.</p>
                     </div>
                     <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                         <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                             <i class="fa fa-phone-alt text-white"></i>
                         </div>
                         <h4>Nhanh chóng</h4>
-                        <p class="mb-0">Sở hữu hơn 100+ nhân sự, TechNam Group tự hào là đơn vị chuyên cung cấp và triển khai các giải pháp Marketing Online nhanh chóng. Tăng doanh thu, kích thích thị hiếu, tạo chuyển đổi tích cực cho doanh nghiệp của bạn!</p>
+                        <p class="mb-0 text-align-justify">Sở hữu hơn 100+ nhân sự, TechNam Group tự hào là đơn vị chuyên cung cấp và triển khai các giải pháp Marketing Online nhanh chóng. Tăng doanh thu, kích thích thị hiếu, tạo chuyển đổi tích cực cho doanh nghiệp của bạn!</p>
                     </div>
                 </div>
             </div>
@@ -246,7 +247,7 @@
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="quang_cao_da_nen_tang">
                 <div class="mask-service"></div>    
                 <div class="text-content">
-                        <h4 class="mb-3 text-white">QUẢNG CÁO ĐA NỀN TẢNG</h4>
+                        <h4 class="mb-3 text-white">QUẢNG CÁO <br /> ĐA NỀN TẢNG</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -271,7 +272,7 @@
                 <div class="mask-service"></div>
                     <div class="text-content">
 
-                        <h4 class="mb-3 text-white">THIẾT KẾ HÌNH ẢNH THEO YÊU CẦU</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ HÌNH ẢNH <br /> THEO YÊU CẦU</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -283,7 +284,7 @@
                 <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_bo_phan_thuong_hieu">
                 <div class="mask-service"></div>    
                 <div class="text-content">
-                        <h4 class="mb-3 text-white">THIẾT KẾ BỘ NHẬN DIỆN THƯƠNG HIỆU</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ BỘ NHẬN DIỆN <br /> THƯƠNG HIỆU</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -296,7 +297,7 @@
                 <div class="mask-service"></div>    
                 <div class="text-content">
 
-                        <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP CHUYÊN NGHIỆP</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP  CHUYÊN NGHIỆP</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -374,7 +375,7 @@
                 <p>This is fallback content to display for user agents that do not support the video tag.</p>
         </video>
     </div>
-    <div class="container py-5">
+    <div class="container py-5" style="padding-bottom: 30px !important;">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>
             <h1 class="mb-0">KHÁCH HÀNG NÓI GÌ VỀ TECHNAM</h1>
@@ -388,7 +389,7 @@
                         <small class="text-uppercase">Quản lý nhà hàng</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
+                <div class="pt-4 pb-5 px-5" style="text-align: justify;">
                 Thật là một vinh hạnh khi làm việc cùng TechNam. Quy trình làm việc của TechNam rất chuyên nghiệp, thân thiện và nhanh chóng. Họ thực sự hiểu những nhu cầu của chúng tôi và luôn cung cấp những giải pháp, lời khuyên cũng như hỗ trợ mọi vấn đề về công nghệ. TechNam đã giúp chúng tôi phát triển mạnh mẽ, vượt bậc hơn chỉ sau vài tháng hợp tác.
                 </div>
             </div>
@@ -400,7 +401,7 @@
                         <small class="text-uppercase">CEO lĩnh vực F&B</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
+                <div class="pt-4 pb-5 px-5" style="text-align: justify;">
                 Tôi đã làm việc cùng TechNam từ tháng Ba năm nay. Tôi nhận thấy đội ngũ của TechNam rất chuyên nghiệp, siêng năng và hiệu quả. Đội ngũ nhân viên tại đây có sự hiểu biết rất sâu rộng về thị trường trong và ngoài nước. Tôi rất hài lòng khi làm việc cùng họ và tin rằng chúng tôi sẽ có nhiều dự án tuyệt vời trong những năm tới.
                 </div>
             </div>
@@ -412,7 +413,7 @@
                         <small class="text-uppercase">Chủ shop thời trang</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
+                <div class="pt-4 pb-5 px-5" style="text-align: justify;">
                 Tôi đã làm việc cùng TechNam trong rất nhiều dự án vài tháng qua. Mỗi lần hợp tác, tôi đều ấn tượng với chất lượng làm việc cũng như sự quyết tâm của đội ngũ TechNam. Các kỹ thuật viên, tư vấn viên đã vượt qua những giờ làm việc căng thẳng và nguồn lực hạn chế, để đưa đến cho chúng tôi kết quả tuyệt vời. Tôi chắc chắn sẽ giới thiệu TechNam cho bất cứ ai tìm kiếm một đơn vị Marketing xuất sắc tại Việt Nam!
                 </div>
             </div>
@@ -424,7 +425,7 @@
                         <small class="text-uppercase">Dịch vụ lữ hành</small>
                     </div>
                 </div>
-                <div class="pt-4 pb-5 px-5">
+                <div class="pt-4 pb-5 px-5" style="text-align: justify;">
                 Dịch vụ chạy quảng cáo, chăm sóc Fanpage của TechNam Group thực sự khiến tôi rất hài lòng, nhân viên chăm sóc khách hàng tận tâm, kỹ thuật viên nhiệt tình, hỗ trợ fix lỗi nhanh chóng. Tôi hoàn toàn yên tâm khi sử dụng dịch vụ tại đây và nhất định sẽ đồng hành cùng TechNam Group trong thời gian tới.
                 </div>
             </div>

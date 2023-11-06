@@ -1,7 +1,7 @@
 #cham_soc_page {
     background-image: url('../img/cty/services/cham_soc_page.jpg');
     background-repeat : round;
-    background-size: 100% 100%;
+    background-size: auto 100%;
     position: relative;
     
 }
@@ -10,7 +10,7 @@
     color: white;
     background-image: url('../img/cty/services/thiet_ke_hinh_anh_theo_yeu_cau.jpg');
     background-repeat : round;
-    background-size: 100% 100%;
+    background-size: auto 100%;
     position: relative;
     
 }
@@ -18,7 +18,7 @@
 #content_chuan_seo {
     background-image: url('../img/cty/services/content_chuan_seo.jpg');
     background-repeat : round;
-    background-size: 100% 100%;
+    background-size: auto 100%;
     position: relative;
     
 }
@@ -26,21 +26,21 @@
 #quang_cao_da_nen_tang {
     background-image: url('../img/cty/services/quang_cao_da_nen_tang.jpg');
     background-repeat : round;
-    background-size: 100% 100%;
+    background-size: auto 100%;
     position: relative;
 }
 
 #thiet_ke_website {
     background-image: url('../img/cty/services/thiet_ke_web.jpg');
     background-repeat : round;
-    background-size: 100% 100%;
+    background-size: auto 100%;
     position: relative;
 }
 
 #thiet_ke_bo_phan_thuong_hieu {
     background-image: url('../img/cty/services/thiet_ke_bo_phan_thuong_hieu.jpg');
     background-repeat : round;
-    background-size: 100% 100%;
+    background-size: auto 100%;
     position: relative;
 }
 
@@ -52,6 +52,8 @@
     opacity: 0.8;
     bottom: 0;
     transition: height 1s;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 
 #cham_soc_page .text-content, 
@@ -98,7 +100,6 @@
 
 .carousel-item {
     height: 100%;
-    width: auto;
 }
 .carousel-item img {
     width: 100%;
@@ -111,4 +112,17 @@
 
 h1.display-1.text-white.mb-md-4.animated.zoomIn {
     text-shadow: 0px 0px 4px #0335c3 !important;
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+
+.owl-carousel.testimonial-carousel.wow.fadeInUp.owl-loaded.owl-drag {
+    padding: 70px !important;
+}
+
+.section-title.text-center.position-relative.pb-3.mb-4.mx-auto {
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
 }
