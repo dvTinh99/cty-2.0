@@ -31,12 +31,15 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/contract-button.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/custome.css">
+    <link rel="stylesheet" href="../css/background.css">
 </head>
 
 <body>
     <!-- Spinner Start -->
     
-    <div id="background"></div>
+    <div id="background">
+        <div class="gradient"></div>
+    </div>
 
     <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner"></div>

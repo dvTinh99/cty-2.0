@@ -1,5 +1,5 @@
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s" style="margin-top:0 !important">
+    <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s" style="margin-top:0 !important" id="footer">
     
         <div class="container">
             <div class="row gx-5">
@@ -18,7 +18,7 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
                     </div>
                     <div class="d-flex mb-2">
                         <i class="bi bi-geo-alt text-primary me-2"></i>
-                        <p class="mb-0">TẦNG 8, TÒA NHÀ VT - CẦU GIẤY -HÀ NỘI.</p>
+                        <p class="mb-0">Lô 6 -7A ,  Nguyễn Tất Thành , P. Hoà Minh, Q. Liên Chiểu, TP. Đà Nẵng</p>
                     </div>
                     <div class="d-flex mb-2">
                         <i class="bi bi-envelope-open text-primary me-2"></i>
@@ -57,13 +57,20 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
                             </iframe>
                         </div>
                         <div id="map">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3833.5390183425993!2d108.21322537515447!3d16.089393938897746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314218151998c8bd%3A0xc2ee935855428453!2zMDMtMDUgWHXDom4gVMOibSwgVGh14bqtbiBQaMaw4bubYywgSOG6o2kgQ2jDonUsIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1698469449011!5m2!1svi!2s" 
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d239.6073720414714!2d108.1681977018687!3d16.080119431549548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTbCsDA0JzQ4LjMiTiAxMDjCsDEwJzA1LjgiRQ!5e0!3m2!1sen!2s!4v1699342451209!5m2!1sen!2s" 
+                            width="100%" height="125" 
+                            style="border:0;" 
+                            allowfullscreen="" 
+                            loading="lazy" 
+                            referrerpolicy="no-referrer-when-downgrade">
+                        </iframe>
+                            <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3833.5390183425993!2d108.21322537515447!3d16.089393938897746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314218151998c8bd%3A0xc2ee935855428453!2zMDMtMDUgWHXDom4gVMOibSwgVGh14bqtbiBQaMaw4bubYywgSOG6o2kgQ2jDonUsIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1698469449011!5m2!1svi!2s" 
                                 width="100%" height="125" 
                                 style="border:0;" 
                                 allowfullscreen="" 
                                 loading="lazy" 
                                 referrerpolicy="no-referrer-when-downgrade">
-                            </iframe>
+                            </iframe> -->
                         </div>
                     </div>
                 </div>
@@ -85,7 +92,7 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
     </div>
     <div class="float-icon-hotline">
         <ul class="left-icon hotline">
-            <li class="hotline_float_icon"><a target="_blank" rel="nofollow" id="messengerButton" href="https://zalo.me/0375577911"><i class="fa fa-zalo animated infinite tada"></i><span>Zalo</span></a></li>
+            <!-- <li class="hotline_float_icon"><a target="_blank" rel="nofollow" id="messengerButton" href="https://zalo.me/0375577911"><i class="fa fa-zalo animated infinite tada"></i><span>Zalo</span></a></li> -->
             <!-- <li class="hotline_float_icon"><a target="_blank" rel="nofollow" id="messengerButton" href="https://www.messenger.com/t/vanhaiweb"><i class="fa fa-messenger animated infinite tada"></i><span>Facebook</span></a></li> -->
         </ul>
     </div>

@@ -31,12 +31,15 @@
   <link href="css/style.css" rel="stylesheet">
   <link href="css/contract-button.css" rel="stylesheet">
   <link rel="stylesheet" href="../css/custome.css">
+  <link rel="stylesheet" href="../css/background.css">
 </head>
 
 <body>
   <!-- Spinner Start -->
 
-  <div id="background"></div>
+  <div id="background">
+    <div class="gradient"></div>
+  </div>
 
   <div id="spinner" class="show position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
     <div class="spinner"></div>
@@ -96,9 +99,9 @@
           </video>
           <div class="carousel-caption d-flex flex-column justify-content-center">
             <div class="p-5" style="max-width: 900px;">
-              <h5 class="text-white text-uppercase mb-3 animated slideInDown">NĂNG ĐỘNG - TRẺ TRUNG - SÁNG TẠO</h5>
-              <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM GROUP</h1>
-              <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a>
+              <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
+              <!-- <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM <br >GROUP</h1> -->
+              <!-- <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a> -->
             </div>
           </div>
         </div>
@@ -109,10 +112,9 @@
           </video>
           <div class="carousel-caption d-flex flex-column justify-content-center">
             <div class="p-5" style="max-width: 900px;">
-              <h5 class="text-white text-uppercase mb-3 animated slideInDown">NĂNG ĐỘNG - TRẺ TRUNG - SÁNG TẠO</h5>
-              <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM MARKETING</h1>
-              <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Dự án</a>
-              <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Liên hệ</a>
+              <h5 class="text-white text-uppercase mb-3 animated slideInDown">TIÊN PHONG - ĐỐI MỚI - SÁNG TẠO</h5>
+              <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM <br > MARKETING</h1>
+              <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a>
             </div>
           </div>
         </div>
@@ -124,9 +126,8 @@
           <div class="carousel-caption d-flex flex-column justify-content-center">
             <div class="p-5" style="max-width: 900px;">
               <h5 class="text-white text-uppercase mb-3 animated slideInDown">NĂNG ĐỘNG - TRẺ TRUNG - SÁNG TẠO</h5>
-              <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM MEDIA</h1>
-              <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Dự án</a>
-              <a href="" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Liên hệ</a>
+              <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM <br >MEDIA</h1>
+              <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a>
             </div>
           </div>
         </div>

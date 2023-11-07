@@ -130,7 +130,7 @@ body {
 
 .bg-primary {
     background-color: #0040FC !important;
-    box-shadow: 0px 0px 18px 4px #0335c3;
+    /* box-shadow: 0px 0px 18px 4px #0335c3; */
 }
 
 .container-fluid.py-5.wow.fadeInUp {
@@ -193,7 +193,7 @@ span.text-hotline {
     transition : all .4s ease;
 }
 
-#background {
+/* #background {
     background:linear-gradient(#0f5fd9, #000080);
     height: 100vh;
     position: fixed;
@@ -210,7 +210,7 @@ span.text-hotline {
     top: 50%;
     width: 100%;
     z-index: 1;
-}
+} */
 
 #particles-js {
     z-index: -2;
@@ -810,7 +810,7 @@ h6,
 .custome-box {
     background-color: #ffffff !important;
     border-radius: 15px !important;
-    box-shadow: 0px 0px 18px 4px #0335c3;
+    /* box-shadow: 0px 0px 18px 4px #066ddf; */
 }
 
 .custome-box:second-child{

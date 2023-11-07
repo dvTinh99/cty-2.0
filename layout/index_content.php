@@ -100,7 +100,7 @@
                     <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG <br /> CÔNG NGHỆ</h1>
                 </div>
                 <p class="mb-4" style="text-align: justify;">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam Group đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam Group góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam Group sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam Group - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
-                <p class="mb-4 fst-italic fw-bold" style="text-align: justify;">Officially launched in 2015, TechNam Group has accumulated nearly 10 years of experience in the field of Marketing and Communications. TechNam Group's Online Marketing solutions have played a significant role in building and developing brands, as well as increasing revenue for hundreds of businesses, both large and small. With access to cutting-edge technologies and a professional workflow, TechNam Group possesses an experienced technical team, confidently delivering high-quality products and the best services to its customers. TechNam Group - Helping businesses conquer customers at every online touchpoint. </p>
+                <p class="mb-4 fst-italic" style="text-align: justify;">Officially launched in 2015, TechNam Group has accumulated nearly 10 years of experience in the field of Marketing and Communications. TechNam Group's Online Marketing solutions have played a significant role in building and developing brands, as well as increasing revenue for hundreds of businesses, both large and small. With access to cutting-edge technologies and a professional workflow, TechNam Group possesses an experienced technical team, confidently delivering high-quality products and the best services to its customers. TechNam Group - Helping businesses conquer customers at every online touchpoint. </p>
                 <!-- <div class="row g-0 mb-3">
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Uy tín</h5>
@@ -383,7 +383,9 @@
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s" style="padding:10px">
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                    <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;">
+                    <div class="img-wrap">
+                        <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 100%; height: 100%;">
+                    </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Minh Hằng</h4>
                         <small class="text-uppercase">Quản lý nhà hàng</small>
@@ -395,7 +397,9 @@
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                    <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;">
+                <div class="img-wrap">
+                    <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 100%; height: 100%;">
+                    </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Ngọc Hùng</h4>
                         <small class="text-uppercase">CEO lĩnh vực F&B</small>
@@ -407,7 +411,9 @@
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                    <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;">
+                <div class="img-wrap">
+                    <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 100%; height: 100%;">
+                    </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Cẩm Phượng</h4>
                         <small class="text-uppercase">Chủ shop thời trang</small>
@@ -419,7 +425,9 @@
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                    <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 60px; height: 60px;">
+                <div class="img-wrap">
+                    <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 100%; height: 100%;">
+                    </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Nhật Minh</h4>
                         <small class="text-uppercase">Dịch vụ lữ hành</small>
