@@ -115,6 +115,20 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'TESLA';
+    src: url('../fonts/TESLA.eot');
+    src: url('../fonts/TESLA.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TESLA.woff2') format('woff2'),
+        url('../fonts/TESLA.woff') format('woff'),
+        url('../fonts/TESLA.ttf') format('truetype'),
+        url('../fonts/TESLA.svg#TESLA') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 
 /********** Template CSS **********/
 :root {

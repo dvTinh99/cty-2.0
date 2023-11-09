@@ -14,7 +14,7 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
                 </div>
                 <div class="col-lg-3 col-md-12 pt-5 mb-5">
                     <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                        <h3 class="text-light mb-0">TECHNAM GROUP</h3>
+                        <h3 class="text-light mb-0"><span style="font-family: TESLA;">TECHNAM</span> MARKETING</h3>
                     </div>
                     <div class="d-flex mb-2">
                         <i class="bi bi-geo-alt text-primary me-2"></i>
@@ -46,7 +46,7 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
                 <div class="col-lg-4 col-md-12">
                     <div class="col-lg-12 col-md-12 pt-0 pt-lg-5 mb-5">
                         <div id="fanpage">
-                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61550231865676&tabs=timeline&width=400&height=125&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=682695438819579" 
+                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTechnamMarketing.Online&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=682695438819579" 
                                 width="100%" 
                                 height="125" 
                                 style="border:none;overflow:hidden" 

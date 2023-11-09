@@ -97,7 +97,7 @@
             <div class="col-lg-7">
                 <div class="section-title position-relative pb-3 mb-5">
                     <h5 class="fw-bold text-primary text-uppercase">Về chúng tôi</h5>
-                    <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG <br /> CÔNG NGHỆ</h1>
+                    <h1 class="mb-0"><span style="font-family: TESLA;">TECHNAM</span> ĐÓN ĐẦU XU HƯỚNG <br /> CÔNG NGHỆ CHUYỂN ĐỔI SỐ & TRUYỀN THÔNG MARKETING</h1>
                 </div>
                 <p class="mb-4" style="text-align: justify;">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam Group đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam Group góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam Group sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam Group - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
                 <p class="mb-4 fst-italic" style="text-align: justify;">Officially launched in 2015, TechNam Group has accumulated nearly 10 years of experience in the field of Marketing and Communications. TechNam Group's Online Marketing solutions have played a significant role in building and developing brands, as well as increasing revenue for hundreds of businesses, both large and small. With access to cutting-edge technologies and a professional workflow, TechNam Group possesses an experienced technical team, confidently delivering high-quality products and the best services to its customers. TechNam Group - Helping businesses conquer customers at every online touchpoint. </p>
@@ -111,7 +111,7 @@
                             <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Tối ưu ngân sách</h5>
                         </div>
                     </div> -->
-                <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
+                <!-- <div class="d-flex align-items-center mb-4 wow fadeIn" data-wow-delay="0.6s">
                     <div class="bg-primary d-flex align-items-center justify-content-center rounded" style="width: 60px; height: 60px;">
                         <i class="fa fa-phone-alt text-white"></i>
                     </div>
@@ -119,7 +119,7 @@
                         <h5 class="mb-2">Liên hệ chúng tôi</h5>
                         <h4 class="text-primary mb-0">+84 588 007 777</h4>
                     </div>
-                </div>
+                </div> -->
                 <!-- <a href="quote.html" class="btn btn-primary py-3 px-5 mt-3 wow zoomIn" data-wow-delay="0.9s">Request A Quote</a> -->
             </div>
             <div class="col-lg-5" style="min-height: 500px;">
@@ -240,7 +240,7 @@
     <div class="container py-5">
         <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Dịch vụ của chúng tôi</h5>
-            <h1 class="mb-0">TECHNAM ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
+            <h1 class="mb-0"><span style="font-family: TESLA;">TECHNAM</span> ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
         </div>
         <div class="row g-5">
             <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -297,7 +297,7 @@
                 <div class="mask-service"></div>    
                 <div class="text-content">
 
-                        <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP  CHUYÊN NGHIỆP</h4>
+                        <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP <br /> CHUYÊN NGHIỆP</h4>
                     </div>
                     <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
                     <a class="btn btn-lg btn-primary rounded" href="">
@@ -378,7 +378,7 @@
     <div class="container py-5" style="padding-bottom: 30px !important;">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>
-            <h1 class="mb-0">KHÁCH HÀNG NÓI GÌ VỀ TECHNAM</h1>
+            <h1 class="mb-0" style="padding-bottom: 5px;">KHÁCH HÀNG NÓI GÌ VỀ  <br /> <span style="font-family: TESLA;">TECHNAM</span></h1>
         </div>
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s" style="padding:10px">
             <div class="testimonial-item bg-light my-4">
