@@ -356,9 +356,16 @@ nav.navbar.navbar-expand-lg.navbar-dark.px-5.py-3.py-lg-0.sticky-top.shadow-sm {
 
 .mask {
     /* height: 10%; */
-    background-color: #02205033;
+    /* background-color: #02205033;
     backdrop-filter : blur(40px);
-    transition: all .4s ease;
+    transition: all .4s ease; */
+    background: -webkit-gradient(linear, left top, left bottom, from(#022194), color-stop(60%, rgba(0,10,26,0.2)), to(rgba(0,10,26,0)));
+    background: linear-gradient(to bottom, #022194 0%, rgba(0,10,26,0.2) 50%, rgba(0,10,26,0) 100%);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    z-index: 30;
 }
 
 /* LIST CUSTOMMER */
