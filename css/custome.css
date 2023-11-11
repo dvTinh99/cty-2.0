@@ -138,3 +138,7 @@ h1.display-1.text-white.mb-md-4.animated.zoomIn {
     background-size: auto 100%;
     position: relative;
 }
+
+.pt-4.pb-5.px-5 {
+    font-size: 15px;
+}
