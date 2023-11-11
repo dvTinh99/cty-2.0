@@ -30,24 +30,39 @@
     background-image: linear-gradient(#4ddc9e, #315cfd);
     animation: rotate 10s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite;
     border-radius: 30% 70% 70% 30%/30% 30% 70% 70%;
-  }
+}
   
-  @keyframes rotate {
-    0% {
-      transform: rotate(0deg);
-    }
-    100% {
-      transform: rotate(360deg);
-    }
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
   }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 
-#background-backup {
-    background-color: #02205033;
-    backdrop-filter : blur(40px);
-    transition : all .4s ease;
-    height: 10vh;
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    z-index: 1;
+.gradient-holder {
+  position: absolute;
+  width: 100%;
+  height: 400vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-width: 400px) {
+  .gradient {
+      width: 200px;
+      height: 200px;
+      filter: blur(50px);
+      background-image: linear-gradient(#4ddc9e, #315cfd);
+      animation: rotate 10s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite;
+      border-radius: 30% 70% 70% 30%/30% 30% 70% 70%;
+  }
+  .owl-carousel.testimonial-carousel.wow.fadeInUp.owl-loaded.owl-drag {
+    padding: 0px !important;
+  }
+  .col-lg-12.col-md-12.pt-0.pt-lg-5.mb-5 {
+    display: none;
+  }
 }

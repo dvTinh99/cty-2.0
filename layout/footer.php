@@ -1,5 +1,5 @@
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s" style="margin-top:0 !important" id="footer">
+    <div class="container-fluid bg-dark text-light mt-5 wow" data-wow-delay="0.1s" style="margin-top:0 !important" id="footer">
     
         <div class="container">
             <div class="row gx-5">

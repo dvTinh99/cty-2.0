@@ -35,12 +35,14 @@
 </div>
 <!-- Full Screen video End -->
 
-<div class="custome-background" style="position: relative">
+<!-- <div class="custome-background" style="position: relative"> -->
+<div class="gradient-holder">
 
-<div class="gradient" style="position: absolute; left: 30%; top:50%; z-index:-1"></div> 
+    <div class="gradient"></div>
+</div>
 
     <!-- About Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-fluid py-5">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-7">
@@ -83,10 +85,9 @@
         </div>
     </div>
     <!-- About End -->
-    
+
     <!-- Features Start -->
-    
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" style="text-transform: uppercase;">
+    <div class="container-fluid py-5" style="text-transform: uppercase;">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">TẠI SAO CHỌN CHÚNG TÔI</h5>
@@ -113,28 +114,28 @@
                 </div>
                 <div class="col-lg-4  wow zoomIn" data-wow-delay="0.9s" style="min-height: 350px;">
                     <div class="position-relative h-100">
-                        <!-- <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.1s" src="img/feature.jpg" style="object-fit: cover;"> -->
+                        <!-- <img class="position-absolute w-100 h-100 rounded wow zoomIn" src="img/feature.jpg" style="object-fit: cover;"> -->
                         <div id="carouselExampleIndicators2" class="carousel" data-bs-ride="carousel" style="height: 100%;">
-                        <div class="carousel-indicators">
-                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                            <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="3" aria-label="Slide 4"></button>
-                        </div>
-                        <div class="carousel-inner" style="height: 100%;">
-                            <div class="carousel-item active">
-                                <img src="../img/cty/why_choose_us/1.jpg" class="d-block w-100" alt="..." width="auto">
+                            <div class="carousel-indicators">
+                                <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                                <button type="button" data-bs-target="#carouselExampleIndicators2" data-bs-slide-to="3" aria-label="Slide 4"></button>
                             </div>
-                            <div class="carousel-item">
-                                <img src="../img/cty/why_choose_us/2.jpg" class="d-block w-100" alt="...">
+                            <div class="carousel-inner" style="height: 100%;">
+                                <div class="carousel-item active">
+                                    <img src="../img/cty/why_choose_us/1.jpg" class="d-block w-100" alt="..." width="auto">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="../img/cty/why_choose_us/2.jpg" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="../img/cty/why_choose_us/3.jpg" class="d-block w-100" alt="...">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="../img/cty/why_choose_us/4.jpg" class="d-block w-100" alt="...">
+                                </div>
                             </div>
-                            <div class="carousel-item">
-                                <img src="../img/cty/why_choose_us/3.jpg" class="d-block w-100" alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="../img/cty/why_choose_us/4.jpg" class="d-block w-100" alt="...">
-                            </div>
-                        </div>
                         </div>
                     </div>
                 </div>
@@ -160,10 +161,9 @@
         </div>
     </div>
     <!-- Features Start -->
-    
-    
+
     <!-- Service Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container-fluid py-5" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Dịch vụ của chúng tôi</h5>
@@ -172,8 +172,8 @@
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="quang_cao_da_nen_tang">
-                    <div class="mask-service"></div>    
-                    <div class="text-content">
+                        <div class="mask-service"></div>
+                        <div class="text-content">
                             <h4 class="mb-3 text-white">QUẢNG CÁO <br /> ĐA NỀN TẢNG</h4>
                         </div>
                         <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -196,9 +196,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_hinh_anh_theo_yeu_cau">
-                    <div class="mask-service"></div>
+                        <div class="mask-service"></div>
                         <div class="text-content">
-    
+
                             <h4 class="mb-3 text-white">THIẾT KẾ HÌNH ẢNH <br /> THEO YÊU CẦU</h4>
                         </div>
                         <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -209,8 +209,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_bo_phan_thuong_hieu">
-                    <div class="mask-service"></div>    
-                    <div class="text-content">
+                        <div class="mask-service"></div>
+                        <div class="text-content">
                             <h4 class="mb-3 text-white">THIẾT KẾ BỘ NHẬN DIỆN <br /> THƯƠNG HIỆU</h4>
                         </div>
                         <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -221,9 +221,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="thiet_ke_website">
-                    <div class="mask-service"></div>    
-                    <div class="text-content">
-    
+                        <div class="mask-service"></div>
+                        <div class="text-content">
+
                             <h4 class="mb-3 text-white">THIẾT KẾ WEB, SIGN APP <br /> CHUYÊN NGHIỆP</h4>
                         </div>
                         <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -234,9 +234,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="custome-box service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center" id="content_chuan_seo">
-                    <div class="mask-service"></div>
+                        <div class="mask-service"></div>
                         <div class="text-content">
-    
+
                             <h4 class="mb-3 text-white">VIẾT CONTENT CHUẨN SEO</h4>
                         </div>
                         <!-- <p class="m-0">Amet justo dolor lorem kasd amet magna sea stet eos vero lorem ipsum dolore sed</p> -->
@@ -249,43 +249,43 @@
         </div>
     </div>
     <!-- Service End -->
-</div>
+<!-- </div> -->
 
 <!-- Vendor Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+<div class="container-fluid py-5" data-wow-delay="0.1s">
     <div class="container py-5 mb-5">
         <div style="background: transparent !important;">
-        <div class="row w-100">
-        <div class="scroll-parent scroll-element-to-left">
-            <div class="scroll-element primary d-flex flex-row">
-                <?php 
-                    for($i = 1; $i <= 10; $i++) {
-                ?>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img src="../img/cty/logo_doi_tac/logo_<?= $i ?>.png" width="100px" height="auto">
+            <div class="row w-100">
+                <div class="scroll-parent scroll-element-to-left">
+                    <div class="scroll-element primary d-flex flex-row">
+                        <?php
+                        for ($i = 1; $i <= 10; $i++) {
+                        ?>
+                            <div>
+                                <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                                    <img src="../img/cty/logo_doi_tac/logo_<?= $i ?>.png" width="100px" height="auto">
+                                </div>
+                            </div>
+                        <?php } ?>
                     </div>
                 </div>
-                <?php } ?>
-            </div>
-        </div>
-        <div class="scroll-parent scroll-element-to-right">
-            <div class="scroll-element primary d-flex flex-row">
-                <?php 
-                    for($i = 1; $i <= 10; $i++) {
-                ?>
-                <div>
-                    <div class=" d-flex flex-column align-items-center" style="width: 400px">
-                        <img src="../img/cty/logo_doi_tac/logo_<?= $i ?>.png" width="100px" height="auto">
+                <div class="scroll-parent scroll-element-to-right">
+                    <div class="scroll-element primary d-flex flex-row">
+                        <?php
+                        for ($i = 1; $i <= 10; $i++) {
+                        ?>
+                            <div>
+                                <div class=" d-flex flex-column align-items-center" style="width: 400px">
+                                    <img src="../img/cty/logo_doi_tac/logo_<?= $i ?>.png" width="100px" height="auto">
+                                </div>
+                            </div>
+                        <?php } ?>
                     </div>
                 </div>
-                <?php } ?>
             </div>
         </div>
     </div>
-        </div>
-    </div>
-   
+
 </div>
 <!-- Vendor End -->
 
@@ -295,18 +295,15 @@
     <div class="customer-feedback-background">
         <div class="mask">
         </div>
-        <video autoplay loop muted playsinline 
-            controls="controls"
-            controls preload="auto"
-            disablePictureInPicture="true">
-                <source type="video/mp4" src="../videos/before_footer_background.mp4">
-                <p>This is fallback content to display for user agents that do not support the video tag.</p>
+        <video autoplay loop muted playsinline controls="controls" controls preload="auto" disablePictureInPicture="true">
+            <source type="video/mp4" src="../videos/before_footer_background.mp4">
+            <p>This is fallback content to display for user agents that do not support the video tag.</p>
         </video>
     </div>
     <div class="container py-5" style="padding-bottom: 30px !important;">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>
-            <h1 class="mb-0" style="padding-bottom: 5px;">KHÁCH HÀNG NÓI GÌ VỀ  <br /> <span style="font-family: TESLA;">TECHNAM</span></h1>
+            <h1 class="mb-0" style="padding-bottom: 5px;">KHÁCH HÀNG NÓI GÌ VỀ <br /> <span style="font-family: TESLA;">TECHNAM</span></h1>
         </div>
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s" style="padding:10px">
             <div class="testimonial-item bg-light my-4">
@@ -320,13 +317,13 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5" style="text-align: justify;">
-                Thật là một vinh hạnh khi làm việc cùng TechNam. Quy trình làm việc của TechNam rất chuyên nghiệp, thân thiện và nhanh chóng. Họ thực sự hiểu những nhu cầu của chúng tôi và luôn cung cấp những giải pháp, lời khuyên cũng như hỗ trợ mọi vấn đề về công nghệ. TechNam đã giúp chúng tôi phát triển mạnh mẽ, vượt bậc hơn chỉ sau vài tháng hợp tác.
+                    Thật là một vinh hạnh khi làm việc cùng TechNam. Quy trình làm việc của TechNam rất chuyên nghiệp, thân thiện và nhanh chóng. Họ thực sự hiểu những nhu cầu của chúng tôi và luôn cung cấp những giải pháp, lời khuyên cũng như hỗ trợ mọi vấn đề về công nghệ. TechNam đã giúp chúng tôi phát triển mạnh mẽ, vượt bậc hơn chỉ sau vài tháng hợp tác.
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <div class="img-wrap">
-                    <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 100%; height: 100%;">
+                    <div class="img-wrap">
+                        <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 100%; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Ngọc Hùng</h4>
@@ -334,13 +331,13 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5" style="text-align: justify;">
-                Tôi đã làm việc cùng TechNam từ tháng Ba năm nay. Tôi nhận thấy đội ngũ của TechNam rất chuyên nghiệp, siêng năng và hiệu quả. Đội ngũ nhân viên tại đây có sự hiểu biết rất sâu rộng về thị trường trong và ngoài nước. Tôi rất hài lòng khi làm việc cùng họ và tin rằng chúng tôi sẽ có nhiều dự án tuyệt vời trong những năm tới.
+                    Tôi đã làm việc cùng TechNam từ tháng Ba năm nay. Tôi nhận thấy đội ngũ của TechNam rất chuyên nghiệp, siêng năng và hiệu quả. Đội ngũ nhân viên tại đây có sự hiểu biết rất sâu rộng về thị trường trong và ngoài nước. Tôi rất hài lòng khi làm việc cùng họ và tin rằng chúng tôi sẽ có nhiều dự án tuyệt vời trong những năm tới.
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <div class="img-wrap">
-                    <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 100%; height: 100%;">
+                    <div class="img-wrap">
+                        <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 100%; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Cẩm Phượng</h4>
@@ -348,13 +345,13 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5" style="text-align: justify;">
-                Tôi đã làm việc cùng TechNam trong rất nhiều dự án vài tháng qua. Mỗi lần hợp tác, tôi đều ấn tượng với chất lượng làm việc cũng như sự quyết tâm của đội ngũ TechNam. Các kỹ thuật viên, tư vấn viên đã vượt qua những giờ làm việc căng thẳng và nguồn lực hạn chế, để đưa đến cho chúng tôi kết quả tuyệt vời. Tôi chắc chắn sẽ giới thiệu TechNam cho bất cứ ai tìm kiếm một đơn vị Marketing xuất sắc tại Việt Nam!
+                    Tôi đã làm việc cùng TechNam trong rất nhiều dự án vài tháng qua. Mỗi lần hợp tác, tôi đều ấn tượng với chất lượng làm việc cũng như sự quyết tâm của đội ngũ TechNam. Các kỹ thuật viên, tư vấn viên đã vượt qua những giờ làm việc căng thẳng và nguồn lực hạn chế, để đưa đến cho chúng tôi kết quả tuyệt vời. Tôi chắc chắn sẽ giới thiệu TechNam cho bất cứ ai tìm kiếm một đơn vị Marketing xuất sắc tại Việt Nam!
                 </div>
             </div>
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
-                <div class="img-wrap">
-                    <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 100%; height: 100%;">
+                    <div class="img-wrap">
+                        <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 100%; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Nhật Minh</h4>
@@ -362,7 +359,7 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5" style="text-align: justify;">
-                Dịch vụ chạy quảng cáo, chăm sóc Fanpage của TechNam Group thực sự khiến tôi rất hài lòng, nhân viên chăm sóc khách hàng tận tâm, kỹ thuật viên nhiệt tình, hỗ trợ fix lỗi nhanh chóng. Tôi hoàn toàn yên tâm khi sử dụng dịch vụ tại đây và nhất định sẽ đồng hành cùng TechNam Group trong thời gian tới.
+                    Dịch vụ chạy quảng cáo, chăm sóc Fanpage của TechNam Group thực sự khiến tôi rất hài lòng, nhân viên chăm sóc khách hàng tận tâm, kỹ thuật viên nhiệt tình, hỗ trợ fix lỗi nhanh chóng. Tôi hoàn toàn yên tâm khi sử dụng dịch vụ tại đây và nhất định sẽ đồng hành cùng TechNam Group trong thời gian tới.
                 </div>
             </div>
         </div>
