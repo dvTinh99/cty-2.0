@@ -157,13 +157,19 @@ body {
 }
 
 .customer-feedback-background {
-    position: absolute;
+    /* position: absolute; */
     bottom: 0;
     height: 100%;
     width: 100%;
     background-color: #02205033;
     backdrop-filter : blur(40px);
     transition: all .4s ease;
+}
+
+.customer-feedback-content {
+    position: absolute;
+    bottom: 0;
+    /* z-index: 20; */
 }
 
 .text-primary {
@@ -365,7 +371,6 @@ nav.navbar.navbar-expand-lg.navbar-dark.px-5.py-3.py-lg-0.sticky-top.shadow-sm {
     height: 100%;
     width: 100%;
     left: 0;
-    z-index: 30;
 }
 
 /* LIST CUSTOMMER */

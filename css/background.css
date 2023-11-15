@@ -52,8 +52,8 @@
 
 @media only screen and (max-width: 1000px) {
   .gradient {
-      width: 200px;
-      height: 200px;
+      width: 250px;
+      height: 250px;
       filter: blur(50px);
       background-image: linear-gradient(#4ddc9e, #315cfd);
       animation: rotate 10s cubic-bezier(0.8, 0.2, 0.2, 0.8) alternate infinite;
@@ -62,7 +62,7 @@
   .owl-carousel.testimonial-carousel.wow.fadeInUp.owl-loaded.owl-drag {
     padding: 0px !important;
   }
-  .col-lg-12.col-md-12.pt-0.pt-lg-5.mb-5 {
+  #footer-menu {
     display: none;
   }
 
@@ -70,4 +70,13 @@
     background-image: none;
     background-color: #022294;
   }
+
+  #navbarCollapse {
+    background-color: white;
+  }
+
+  .fa.fa-search {
+    color: black;
+  }
+
 }

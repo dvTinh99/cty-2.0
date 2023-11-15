@@ -142,3 +142,15 @@ h1.display-1.text-white.mb-md-4.animated.zoomIn {
 .pt-4.pb-5.px-5 {
     font-size: 15px;
 }
+
+h1 {
+    margin: 0 !important;
+}
+
+h5.text-white.text-uppercase.animated.slideInDown {
+    margin-bottom: 0 !important;
+}
+
+.owl-stage {
+    transform: none;
+}

@@ -77,7 +77,7 @@
                     <div class="position-relative h-100" data-bs-toggle="modal" data-bs-target="#videoModal">
                         <img src="../img/cty/thumnail.jpg" style="height:100%;width:100%;object-fit:contain">
                         <div>
-                            <img src="../img/cty/play_btn.png" alt="" style="height: 70px;width: 70px;position: absolute;left:0;right:0;margin:auto;top:43%">
+                            <img src="../img/cty/play_btn.png" alt="" style="height: 70px;width: 70px;position: absolute;left:0;right:0;margin:auto;top:46%">
                         </div>
                     </div>
                 </div>
@@ -101,14 +101,14 @@
                                 <i class="fa fa-cubes text-white"></i>
                             </div>
                             <h4>Uy tín</h4>
-                            <p class="mb-0 text-align-justify">TechNam Group quy tụ đội ngũ chuyên viên giàu kinh nghiệm, đã thực chiến qua nhiều dự án. Chúng tôi đảm bảo hoàn thành tốt công việc theo như cam kết với quý đối tác/khách hàng; thực hiện đúng tiến độ và xử lý nhanh, gọn mọi dự án.</p>
+                            <p class="mb-0 text-align-justify">TECHNAM MARKETING quy tụ đội ngũ chuyên viên giàu kinh nghiệm, đã thực chiến qua nhiều dự án. Chúng tôi đảm bảo hoàn thành tốt công việc theo như cam kết với quý đối tác/khách hàng; thực hiện đúng tiến độ và xử lý nhanh, gọn mọi dự án.</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.6s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-award text-white"></i>
                             </div>
                             <h4>Chuyên Nghiệp</h4>
-                            <p class="mb-0 text-align-justify">Xây dựng kế hoạch từ tổng thể đến chi tiết là phương châm hoạt động của TechNam Group. Điều này giúp chúng tôi tạo nên giá trị bền vững, tối ưu chi phí chiến dịch và mang hiệu quả đầu tư tối đa cho quý đối tác/khách hàng.</p>
+                            <p class="mb-0 text-align-justify">Xây dựng kế hoạch từ tổng thể đến chi tiết là phương châm hoạt động của TECHNAM MARKETING. Điều này giúp chúng tôi tạo nên giá trị bền vững, tối ưu chi phí chiến dịch và mang hiệu quả đầu tư tối đa cho quý đối tác/khách hàng.</p>
                         </div>
                     </div>
                 </div>
@@ -146,14 +146,14 @@
                                 <i class="fa fa-users-cog text-white"></i>
                             </div>
                             <h4>Sáng tạo</h4>
-                            <p class="mb-0 text-align-justify">Đây là mục tiêu hàng đầu và yếu tố tạo sự khác biệt của mọi ý tưởng, chiến dịch do TechNam Group đảm nhiệm. Dựa trên mong muốn của đối tác - khách hàng, chúng tôi dành tất cả tâm huyết, trí lực để hoàn thành sản phẩm phù hợp nhất.</p>
+                            <p class="mb-0 text-align-justify">Đây là mục tiêu hàng đầu và yếu tố tạo sự khác biệt của mọi ý tưởng, chiến dịch do TECHNAM MARKETING đảm nhiệm. Dựa trên mong muốn của đối tác - khách hàng, chúng tôi dành tất cả tâm huyết, trí lực để hoàn thành sản phẩm phù hợp nhất.</p>
                         </div>
                         <div class="col-12 wow zoomIn" data-wow-delay="0.8s">
                             <div class="bg-primary rounded d-flex align-items-center justify-content-center mb-3" style="width: 60px; height: 60px;">
                                 <i class="fa fa-phone-alt text-white"></i>
                             </div>
                             <h4>Nhanh chóng</h4>
-                            <p class="mb-0 text-align-justify">Sở hữu hơn 100+ nhân sự, TechNam Group tự hào là đơn vị chuyên cung cấp và triển khai các giải pháp Marketing Online nhanh chóng. Tăng doanh thu, kích thích thị hiếu, tạo chuyển đổi tích cực cho doanh nghiệp của bạn!</p>
+                            <p class="mb-0 text-align-justify">Sở hữu hơn 100+ nhân sự, TECHNAM MARKETING tự hào là đơn vị chuyên cung cấp và triển khai các giải pháp Marketing Online nhanh chóng. Tăng doanh thu, kích thích thị hiếu, tạo chuyển đổi tích cực cho doanh nghiệp của bạn!</p>
                         </div>
                     </div>
                 </div>
@@ -291,25 +291,24 @@
 
 
 <!-- Testimonial Start -->
-<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s" id="customer-feedback">
+<div class="container-fluid py-5" data-wow-delay="0.1s" id="customer-feedback">
     <div class="customer-feedback-background">
-        <div class="mask">
-        </div>
+        <div class="mask"></div>
         <video autoplay loop muted playsinline controls="controls" controls preload="auto" disablePictureInPicture="true">
             <source type="video/mp4" src="../videos/before_footer_background.mp4">
             <p>This is fallback content to display for user agents that do not support the video tag.</p>
         </video>
     </div>
-    <div class="container py-5" style="padding-bottom: 30px !important;">
+    <div class="container customer-feedback-content" style="padding-bottom: 30px !important;">
         <div class="section-title text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
             <h5 class="fw-bold text-primary text-uppercase">Phản hồi</h5>
             <h1 class="mb-0" style="padding-bottom: 5px;">KHÁCH HÀNG NÓI GÌ VỀ <br /> <span style="font-family: TESLA;">TECHNAM</span></h1>
         </div>
-        <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s" style="padding:10px">
+        <div class="owl-carousel testimonial-carousel" data-wow-delay="0.6s" style="padding:10px">
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <div class="img-wrap">
-                        <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: 100%; height: 100%;">
+                        <img class="img-fluid rounded" src="img/testimonial-1.jpg" style="width: auto; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Minh Hằng</h4>
@@ -323,7 +322,7 @@
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <div class="img-wrap">
-                        <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: 100%; height: 100%;">
+                        <img class="img-fluid rounded" src="img/testimonial-2.jpg" style="width: auto; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Ngọc Hùng</h4>
@@ -337,7 +336,7 @@
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <div class="img-wrap">
-                        <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: 100%; height: 100%;">
+                        <img class="img-fluid rounded" src="img/testimonial-3.jpg" style="width: auto; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Cẩm Phượng</h4>
@@ -351,7 +350,7 @@
             <div class="testimonial-item bg-light my-4">
                 <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                     <div class="img-wrap">
-                        <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: 100%; height: 100%;">
+                        <img class="img-fluid rounded" src="img/testimonial-4.jpg" style="width: auto; height: 100%;">
                     </div>
                     <div class="ps-4">
                         <h4 class="text-primary mb-1">Nhật Minh</h4>

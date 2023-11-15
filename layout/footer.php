@@ -29,7 +29,7 @@ TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing t
                         <p class="mb-0">+84 588 007 777</p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-12">
+                <div class="col-lg-2 col-md-12" id="footer-menu">
                     <div class="col-lg-12 col-md-12 pt-0 pt-lg-5 mb-5">
                         <!-- <div class="section-title section-title-sm position-relative pb-3 mb-4">
                             <h3 class="text-light mb-0">Quick Links</h3>

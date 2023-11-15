@@ -57,7 +57,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-0">
-          <a href="index.html" class="nav-item nav-link active">Về chúng tôi</a>
+          <a href="index.html" class="nav-item nav-link">Về chúng tôi</a>
           <a href="about.html" class="nav-item nav-link">Dự án</a>
           <a href="service.html" class="nav-item nav-link">Cơ hội nghề nghiệp</a>
           <a href="service.html" class="nav-item nav-link">Tin tức</a>
@@ -99,7 +99,7 @@
           </video>
           <div class="carousel-caption d-flex flex-column justify-content-center">
             <div class="p-5" style="max-width: 900px;">
-              <h5 class="text-white text-uppercase mb-3 animated slideInDown"></h5>
+              <h5 class="text-white text-uppercase animated slideInDown"></h5>
               <!-- <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM <br >GROUP</h1> -->
               <!-- <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a> -->
             </div>
@@ -111,8 +111,8 @@
             <p>This is fallback content to display for user agents that do not support the video tag.</p>
           </video>
           <div class="carousel-caption d-flex flex-column justify-content-center">
-            <div class="p-5" style="max-width: 900px;">
-              <h5 class="text-white text-uppercase mb-3 animated slideInDown">TIÊN PHONG - ĐỐI MỚI - SÁNG TẠO</h5>
+            <div class="p-5" style="max-width: 900px;margin-top: 50px;padding-bottom: 2rem !important;">
+              <h5 class="text-white text-uppercase animated slideInDown">TIÊN PHONG - ĐỐI MỚI - SÁNG TẠO</h5>
               <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM <br > MARKETING</h1>
               <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a>
             </div>
@@ -124,8 +124,8 @@
             <p>This is fallback content to display for user agents that do not support the video tag.</p>
           </video>
           <div class="carousel-caption d-flex flex-column justify-content-center">
-            <div class="p-5" style="max-width: 900px;">
-              <h5 class="text-white text-uppercase mb-3 animated slideInDown">NĂNG ĐỘNG - TRẺ TRUNG - SÁNG TẠO</h5>
+            <div class="p-5" style="max-width: 900px;margin-top: 50px;padding-bottom: 2rem !important;">
+              <h5 class="text-white text-uppercase animated slideInDown">NĂNG ĐỘNG - TRẺ TRUNG - SÁNG TẠO</h5>
               <h1 class="display-1 text-white mb-md-4 animated zoomIn">TECHNAM <br >MEDIA</h1>
               <a href="quote.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Xem chi tiết</a>
             </div>
