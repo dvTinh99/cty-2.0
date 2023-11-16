@@ -157,7 +157,7 @@ body {
 }
 
 .customer-feedback-background {
-    /* position: absolute; */
+    position: absolute;
     bottom: 0;
     height: 100%;
     width: 100%;
@@ -167,8 +167,8 @@ body {
 }
 
 .customer-feedback-content {
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     /* z-index: 20; */
 }
 
