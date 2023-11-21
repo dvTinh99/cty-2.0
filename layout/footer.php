@@ -9,7 +9,7 @@
                             <img src="./img/cty/logo_white.png" alt="" style="width: auto;height: 60px;">
                         </a>
                         <p class="mt-3 mb-4">Đối tác tốt nhất để xây dựng và phát triển thương hiệu số
-TechNam Group (Thành lập từ năm 2015) mang đến giải pháp Marketing tổng thể dành cho doanh nghiệp.</p>
+TechNam (Thành lập từ năm 2015) mang đến giải pháp Marketing tổng thể dành cho doanh nghiệp.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-12 pt-5 mb-5">

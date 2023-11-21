@@ -50,8 +50,8 @@
                         <h5 class="fw-bold text-primary text-uppercase">Về chúng tôi</h5>
                         <h1 class="mb-0"><span style="font-family: TESLA;">TECHNAM</span> ĐÓN ĐẦU XU HƯỚNG <br /> CÔNG NGHỆ CHUYỂN ĐỔI SỐ & TRUYỀN THÔNG MARKETING</h1>
                     </div>
-                    <p class="mb-4" style="text-align: justify;">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam Group đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam Group góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam Group sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam Group - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
-                    <p class="mb-4 fst-italic" style="text-align: justify;">Officially launched in 2015, TechNam Group has accumulated nearly 10 years of experience in the field of Marketing and Communications. TechNam Group's Online Marketing solutions have played a significant role in building and developing brands, as well as increasing revenue for hundreds of businesses, both large and small. With access to cutting-edge technologies and a professional workflow, TechNam Group possesses an experienced technical team, confidently delivering high-quality products and the best services to its customers. TechNam Group - Helping businesses conquer customers at every online touchpoint. </p>
+                    <p class="mb-4" style="text-align: justify;">Chính thức đi vào hoạt động từ năm 2015, đến nay TechNam đã có gần 10 năm kinh nghiệm trong lĩnh vực Marketing - Truyền thông. Các giải pháp Marketing Online của TechNam góp phần rất lớn trong quá trình xây dựng và phát triển thương hiệu, tăng trưởng doanh thu cho hàng trăm doanh nghiệp lớn nhỏ. Nắm giữ nhiều công nghệ hàng đầu, TechNam sở hữu quy trình làm việc chuyên nghiệp và đội ngũ kỹ thuật giàu kinh nghiệm, tự tin mang đến những sản phẩm chất lượng, dịch vụ tốt nhất cho khách hàng. TechNam - Giúp doanh nghiệp chinh phục khách hàng ở mọi điểm chạm online.</p>
+                    <p class="mb-4 fst-italic" style="text-align: justify;">Officially launched in 2015, TechNam has accumulated nearly 10 years of experience in the field of Marketing and Communications. TechNam's Online Marketing solutions have played a significant role in building and developing brands, as well as increasing revenue for hundreds of businesses, both large and small. With access to cutting-edge technologies and a professional workflow, TechNam possesses an experienced technical team, confidently delivering high-quality products and the best services to its customers. TechNam - Helping businesses conquer customers at every online touchpoint. </p>
                     <!-- <div class="row g-0 mb-3">
                             <div class="col-sm-6 wow zoomIn" data-wow-delay="0.2s">
                                 <h5 class="mb-3"><i class="fa fa-check text-primary me-3"></i>Uy tín</h5>
@@ -167,7 +167,7 @@
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Dịch vụ của chúng tôi</h5>
-                <h1 class="mb-0"><span style="font-family: TESLA;">TECHNAM</span> ĐÓN ĐẦU XU HƯỚNG CÔNG NGHỆ</h1>
+                <h1 class="mb-0"><span style="font-family: TESLA;">TECHNAM</span> SỨC MẠNH CÔNG NGHỆ, NÂNG CAO HIỆU QUẢ QUẢNG CÁO</h1>
             </div>
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
@@ -358,7 +358,7 @@
                     </div>
                 </div>
                 <div class="pt-4 pb-5 px-5" style="text-align: justify;">
-                    Dịch vụ chạy quảng cáo, chăm sóc Fanpage của TechNam Group thực sự khiến tôi rất hài lòng, nhân viên chăm sóc khách hàng tận tâm, kỹ thuật viên nhiệt tình, hỗ trợ fix lỗi nhanh chóng. Tôi hoàn toàn yên tâm khi sử dụng dịch vụ tại đây và nhất định sẽ đồng hành cùng TechNam Group trong thời gian tới.
+                    Dịch vụ chạy quảng cáo, chăm sóc Fanpage của TechNam thực sự khiến tôi rất hài lòng, nhân viên chăm sóc khách hàng tận tâm, kỹ thuật viên nhiệt tình, hỗ trợ fix lỗi nhanh chóng. Tôi hoàn toàn yên tâm khi sử dụng dịch vụ tại đây và nhất định sẽ đồng hành cùng TechNam trong thời gian tới.
                 </div>
             </div>
         </div>
