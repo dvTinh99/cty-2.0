@@ -1,5 +1,5 @@
 (function ($) {
-    $('#logo_menu')[0].src = "./img/cty/logo_white.png"
+    // $('#logo_menu')[0].src = "./img/cty/logo_white.png"
     "use strict";
 
     // Spinner
